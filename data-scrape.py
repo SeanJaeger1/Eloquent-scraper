@@ -1,6 +1,5 @@
 import csv
 import requests
-import pandas as pd
 import re
 import time
 
@@ -10,28 +9,28 @@ with open('word-frequency.txt', 'r') as in_file, open('final_scrape_pending.csv'
     writer = csv.writer(out_file)
     
     # Write the header row to the output CSV
-    writer.writerow(['Word', 'Difficulty'])
+    writer.writerow(['Word', 'WordInfo'])
     
     # Initialize a counter for the number of rows written to the output CSV
     row_count = 0
     
     # Iterate through each row in the text file
-    for row in list(reader)[29262:]:
+    for row in list(reader):
         row = re.split('\s+', row[0].strip())
         word = row[1]  # assuming the word is the second column
         
         # Ping the API with the word
-        response = requests.get(f'https://api.dictionaryapi.dev/api/v2/entries/en/{word}')  # replace 'your_api_url' with the actual API URL
-        print(row[0], word, response)
+        response = requests.get(f'https://api.dictionaryapi.dev/api/v2/entries/en/{word}')
 
         while response.status_code == 429:
             # Wait for 5 minutes before trying again
             print('Too many requests. Waiting for 30s...')
             time.sleep(30)
-            response = requests.get(f'https://api.dictionaryapi.dev/api/v2/entries/en/{word}')  # try the request again
-        
+            response = requests.get(f'https://api.dictionaryapi.dev/api/v2/entries/en/{word}')
+    
         if response.status_code == 200:
             # Write the word and the response to the output CSV
-            difficulty = response.json()  # replace this with actual extraction of difficulty from the response
-            writer.writerow([word, difficulty])
+            wordInfo = response.json()  # replace this with actual extraction of wordInfo from the response
+            print(wordInfo)
+            writer.writerow([word, wordInfo])
             row_count += 1
