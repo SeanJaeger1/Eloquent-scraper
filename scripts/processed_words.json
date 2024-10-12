@@ -1,0 +1,5442 @@
+[
+  {
+    "word": "the",
+    "definition": "A specific or particular thing, being or situation that is referred to by a noun or pronoun",
+    "wordType": "article",
+    "examples": [
+      "The book on the table is mine",
+      "I'm going to the store",
+      "This is the best pizza I've ever had"
+    ],
+    "synonyms": [
+      "this",
+      "that",
+      "a certain"
+    ],
+    "antonyms": [
+      "other",
+      "different",
+      "various"
+    ]
+  },
+  {
+    "word": "of",
+    "definition": "Originating or belonging to something; a preposition indicating possession, origin, or source.",
+    "wordType": "Preposition",
+    "examples": [
+      "The book is of great importance.",
+      "The company was of small size at first.",
+      "The play is of Shakespeare."
+    ],
+    "synonyms": [
+      "pertaining to",
+      "concerning",
+      "relating"
+    ],
+    "antonyms": [
+      "from",
+      "to",
+      "about"
+    ]
+  },
+  {
+    "word": "and",
+    "definition": "A conjunction used to connect words, phrases, or clauses, indicating that the following word or phrase is additional information.",
+    "wordType": "conjunction",
+    "examples": [
+      "I like reading books and watching movies.",
+      "She had three kids and a dog.",
+      "They went to the park and played some games."
+    ],
+    "synonyms": [
+      "also",
+      "too",
+      "plus"
+    ],
+    "antonyms": [
+      "but",
+      "however",
+      "nevertheless"
+    ]
+  },
+  {
+    "word": "to",
+    "definition": "Indicating movement or direction towards a place, person, or thing",
+    "wordType": "Preposition",
+    "examples": [
+      "I'm going to the store.",
+      "The ball is flying to the goal.",
+      "She's running to the bank."
+    ],
+    "synonyms": [
+      "toward",
+      "into",
+      "up"
+    ],
+    "antonyms": [
+      "from",
+      "away",
+      "off"
+    ]
+  },
+  {
+    "word": "in",
+    "definition": "Located on the interior of or within something, such as a container or area.",
+    "wordType": "preposition",
+    "examples": [
+      "The dog is in the house.",
+      "She was in the meeting all day.",
+      "The book is in its usual place."
+    ],
+    "synonyms": [
+      "inside",
+      "within",
+      "into"
+    ],
+    "antonyms": [
+      "out",
+      "outside",
+      "away"
+    ]
+  },
+  {
+    "word": "a",
+    "definition": "The first letter of the modern English alphabet, used to form a numeral system.",
+    "wordType": "Article",
+    "examples": [
+      "A man walked down the street.",
+      "He bought an apple for a friend.",
+      "She earned a good grade on her test."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "that",
+    "definition": "A pronoun used to indicate a person or thing previously mentioned, usually in the sense of proximity or familiarity.",
+    "wordType": "determiner",
+    "examples": [
+      "I know that you're tired from working all day.",
+      "She asked me if I knew that song.",
+      "They decided not to go to the party because they knew that it would be boring."
+    ],
+    "synonyms": [
+      "which",
+      "what",
+      "whose"
+    ],
+    "antonyms": [
+      "this",
+      "these",
+      "another"
+    ]
+  },
+  {
+    "word": "as",
+    "definition": "In the capacity of; as a representative or substitute",
+    "wordType": "preposition",
+    "examples": [
+      "I am going to the store as a favor for my friend.",
+      "The company hired him as their new CEO.",
+      "She speaks French as fluently as her native language."
+    ],
+    "synonyms": [
+      "as well",
+      "likewise",
+      "in capacity"
+    ],
+    "antonyms": [
+      "unlike",
+      "differently",
+      "otherwise"
+    ]
+  },
+  {
+    "word": "it",
+    "definition": "The object or person referred to, either immediately or ultimately in discourse.",
+    "wordType": "pronoun",
+    "examples": [
+      "What do you want with it?",
+      "I'll get it done by tomorrow.",
+      "It's a beautiful day out."
+    ],
+    "synonyms": [
+      "this",
+      "that",
+      "these"
+    ],
+    "antonyms": [
+      "it doesn't matter",
+      "someone else",
+      "not applicable"
+    ]
+  },
+  {
+    "word": "by",
+    "definition": "Used to indicate authorship or agency, indicating that an action was performed or a thing was done in the presence of something else.",
+    "wordType": "preposition",
+    "examples": [
+      "The book is written by my favorite author.",
+      "The company will be sold by its founder.",
+      "The road was built by local laborers."
+    ],
+    "synonyms": [
+      "of",
+      "with",
+      "through"
+    ],
+    "antonyms": [
+      "from",
+      "against",
+      "without"
+    ]
+  },
+  {
+    "word": "with",
+    "definition": "Used to indicate a connection or accompaniment between two things.",
+    "wordType": "Preposition",
+    "examples": [
+      "I'm going to the store with my friend.",
+      "She's working on this project with her colleagues.",
+      "He's playing soccer with his brothers."
+    ],
+    "synonyms": [
+      "alongside",
+      "together",
+      "in association"
+    ],
+    "antonyms": [
+      "without",
+      "separately",
+      "apart"
+    ]
+  },
+  {
+    "word": "on",
+    "definition": "Supporting or situated upon a surface; in contact with the ground or a support.",
+    "wordType": "preposition",
+    "examples": [
+      "The book is on the table.",
+      "She's going to be on stage at 8pm.",
+      "The light is on in the living room."
+    ],
+    "synonyms": [
+      "upon",
+      "atop",
+      "astride"
+    ],
+    "antonyms": [
+      "off",
+      "away",
+      "from"
+    ]
+  },
+  {
+    "word": "not",
+    "definition": "Used to indicate negation or denial, indicating that something is the opposite of what has been said.",
+    "wordType": "Adverb",
+    "examples": [
+      "I am not going to the store",
+      "She does not like coffee",
+      "He cannot attend the meeting"
+    ],
+    "synonyms": [
+      "never",
+      "neither",
+      "nor"
+    ],
+    "antonyms": [
+      "yes",
+      "indeed",
+      "certainly"
+    ]
+  },
+  {
+    "word": "or",
+    "definition": "used to indicate a choice or an alternative between two things",
+    "wordType": "conjunction",
+    "examples": [
+      "I'll have the cake or the cookies.",
+      "You can choose to watch TV or go for a walk.",
+      "It's either sunny or rainy today."
+    ],
+    "synonyms": [
+      "else",
+      "alternatively",
+      "furthermore"
+    ],
+    "antonyms": [
+      "and",
+      "besides",
+      "in addition"
+    ]
+  },
+  {
+    "word": "this",
+    "definition": "used to refer to something that is close in time or space, often used to emphasize the speaker's familiarity with the topic",
+    "wordType": "demonstrative adjective",
+    "examples": [
+      "This cake is delicious.",
+      "I like this book.",
+      "Can you pass me this pen?"
+    ],
+    "synonyms": [
+      "these",
+      "that",
+      "such"
+    ],
+    "antonyms": [
+      "that",
+      "those",
+      "another"
+    ]
+  },
+  {
+    "word": "I",
+    "definition": "The first-person singular pronoun, used to refer to oneself.",
+    "wordType": "pronoun",
+    "examples": [
+      "This is I.",
+      "What I want is...",
+      "That's me, I!"
+    ],
+    "synonyms": [
+      "myself",
+      "me",
+      "one"
+    ],
+    "antonyms": [
+      "they",
+      "you",
+      "them"
+    ]
+  },
+  {
+    "word": "are",
+    "definition": "exist or occur in a particular way",
+    "wordType": "verb",
+    "examples": [
+      "The sun are shining brightly today.",
+      "Many students are attending the conference.",
+      "Some cities are major tourist destinations."
+    ],
+    "synonyms": [
+      "exist",
+      "occur",
+      "happen"
+    ],
+    "antonyms": [
+      "are not",
+      "do not exist",
+      "do not occur"
+    ]
+  },
+  {
+    "word": "at",
+    "definition": "At a specific point or time; near to something.",
+    "wordType": "Preposition",
+    "examples": [
+      "I'll meet you at the bus stop.",
+      "The ball landed at my feet.",
+      "She's staying at her parents' place tonight."
+    ],
+    "synonyms": [
+      "in",
+      "near",
+      "close to"
+    ],
+    "antonyms": [
+      "from",
+      "away from",
+      "distant from"
+    ]
+  },
+  {
+    "word": "from",
+    "definition": "Originating or starting at a particular place, time, or point of departure.",
+    "wordType": "preposition",
+    "examples": [
+      "The package arrived from the west coast yesterday.",
+      "I'm flying from New York to Los Angeles next week.",
+      "The news came from multiple sources, but none were confirmed."
+    ],
+    "synonyms": [
+      "starting",
+      "originating",
+      "deriving"
+    ],
+    "antonyms": [
+      "to",
+      "toward",
+      "into"
+    ]
+  },
+  {
+    "word": "he",
+    "definition": "the third person singular pronoun, used to refer to a male person or animal",
+    "wordType": "pronoun",
+    "examples": [
+      "He is going to the store.",
+      "He loves playing soccer.",
+      "He will be there at 5pm."
+    ],
+    "synonyms": [
+      "him",
+      "his",
+      "that man"
+    ],
+    "antonyms": [
+      "she",
+      "her",
+      "it"
+    ]
+  },
+  {
+    "word": "which",
+    "definition": "Used to ask about or indicate a specific one among several possibilities; also used to express doubt or uncertainty.",
+    "wordType": "pronoun",
+    "examples": [
+      "Can I have the book which is on the top shelf?",
+      "She's the one who got the job which she had been seeking for months.",
+      "I'm not sure which bus to take, but it should be around here somewhere."
+    ],
+    "synonyms": [
+      "that",
+      "those",
+      "what"
+    ],
+    "antonyms": [
+      "none",
+      "nothing",
+      "neither"
+    ]
+  },
+  {
+    "word": "his",
+    "definition": "belonging to or associated with a man, typically used to indicate possession or relationship",
+    "wordType": "pronoun",
+    "examples": [
+      "This is his book.",
+      "He is his own boss.",
+      "The house was his"
+    ],
+    "synonyms": [
+      "her",
+      "its",
+      "their"
+    ],
+    "antonyms": [
+      "hers",
+      "ours",
+      "theirs"
+    ]
+  },
+  {
+    "word": "have",
+    "definition": "To possess or hold something, either physically or metaphorically.",
+    "wordType": "verb",
+    "examples": [
+      "I will have dinner at 7 pm tonight.",
+      "This company has been in operation for over 20 years.",
+      "She has a way with animals that I've never seen before."
+    ],
+    "synonyms": [
+      "possess",
+      "hold",
+      "own"
+    ],
+    "antonyms": [
+      "lack",
+      "absence",
+      "without"
+    ]
+  },
+  {
+    "word": "an",
+    "definition": "A prefix used to indicate a singular or indefinite noun, often indicating that the noun is not specified.",
+    "wordType": "article",
+    "examples": [
+      "An elephant walked by the park",
+      "The new employee, an engineer, was very skilled",
+      "The company has hired an experienced consultant."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "but",
+    "definition": "A conjunction used to indicate a contrast or exception to what has been previously stated.",
+    "wordType": "conjunction",
+    "examples": [
+      "I wanted to go to the store, but I forgot my wallet at home.",
+      "She was supposed to finish her project by Friday, but it took her all weekend.",
+      "He was going to attend the meeting, but a sudden illness prevented him from doing so."
+    ],
+    "synonyms": [
+      "however",
+      "though",
+      "yet"
+    ],
+    "antonyms": [
+      "moreover",
+      "in addition",
+      "furthermore"
+    ]
+  },
+  {
+    "word": "you",
+    "definition": "The person or people being addressed",
+    "wordType": "pronoun",
+    "examples": [
+      "What are you doing tonight?",
+      "You're really good at this.",
+      "You can have the last piece of cake."
+    ],
+    "synonyms": [
+      "thou",
+      "thee",
+      "thyself"
+    ],
+    "antonyms": [
+      "they",
+      "them",
+      "those"
+    ]
+  },
+  {
+    "word": "they",
+    "definition": "a pronoun used to refer to people or things previously mentioned or easily identified, such as the ones you are talking about",
+    "wordType": "pronoun",
+    "examples": [
+      "They are coming over tonight.",
+      "I love watching they play soccer.",
+      "The new manager is not pleased with they performance."
+    ],
+    "synonyms": [
+      "them",
+      "those people",
+      "those individuals"
+    ],
+    "antonyms": [
+      "we",
+      "us",
+      "our"
+    ]
+  },
+  {
+    "word": "were",
+    "definition": "used to indicate that something happened in the past, with a subject other than I",
+    "wordType": "verb",
+    "examples": [
+      "We were at home.",
+      "They were not present.",
+      "She was always busy."
+    ],
+    "synonyms": [
+      "was",
+      "am",
+      "have been"
+    ],
+    "antonyms": [
+      "will be",
+      "won't be",
+      "isn't"
+    ]
+  },
+  {
+    "word": "had",
+    "definition": "to have had or experienced something in the past",
+    "wordType": "verb, auxiliary verb",
+    "examples": [
+      "I had lived in Paris for three years before moving back to New York.",
+      "She had never seen a sunset so beautiful.",
+      "They had always wanted to travel around Europe."
+    ],
+    "synonyms": [
+      "possessed",
+      "owned",
+      "experienced"
+    ],
+    "antonyms": [
+      "has not",
+      "does not possess",
+      "did not experience"
+    ]
+  },
+  {
+    "word": "we",
+    "definition": "First-person plural pronoun referring to the speaker and one or more others, often used to indicate unity of purpose or shared experience.",
+    "wordType": "pronoun",
+    "examples": [
+      "I went with my friends, we had a great time.",
+      "We are going on vacation this summer.",
+      "The team worked together, we were all excited for the game."
+    ],
+    "synonyms": [
+      "us",
+      "our",
+      "yours"
+    ],
+    "antonyms": [
+      "they",
+      "them",
+      "their"
+    ]
+  },
+  {
+    "word": "all",
+    "definition": "Including or encompassing everything; whole; entire.",
+    "wordType": "article",
+    "examples": [
+      "I'm going to the store for all the groceries on my list.",
+      "She's wearing all her favorite colors today.",
+      "He's willing to do all the work himself, no matter how long it takes."
+    ],
+    "synonyms": [
+      "entire",
+      "total",
+      "complete"
+    ],
+    "antonyms": [
+      "none",
+      "part",
+      "few"
+    ]
+  },
+  {
+    "word": "one",
+    "definition": "The number that is one greater than zero.",
+    "wordType": "number",
+    "examples": [
+      "I have one cat.",
+      "There is only one way to do this.",
+      "She's got one strike against her."
+    ],
+    "synonyms": [
+      "unity",
+      "alone",
+      "single"
+    ],
+    "antonyms": [
+      "many",
+      "several",
+      "numerous"
+    ]
+  },
+  {
+    "word": "has",
+    "definition": "possesses or holds something",
+    "wordType": "verb",
+    "examples": [
+      "She has a dog.",
+      "He has never been to Europe.",
+      "They have three children."
+    ],
+    "synonyms": [
+      "possess",
+      "own",
+      "hold"
+    ],
+    "antonyms": [
+      "lacks",
+      "doesn't possess",
+      "is without"
+    ]
+  },
+  {
+    "word": "been",
+    "definition": "to have existed or occurred at a previous time; to have had experience of something",
+    "wordType": "verb",
+    "examples": [
+      "I've been studying English for three years.",
+      "She has been working as a teacher for over a decade.",
+      "They have been married for twenty years."
+    ],
+    "synonyms": [
+      "existed",
+      "happened",
+      "occurred"
+    ],
+    "antonyms": [
+      "hasn't been",
+      "isn't",
+      "wasn't"
+    ]
+  },
+  {
+    "word": "will",
+    "definition": "to have in mind a fixed intention or decision to do something",
+    "wordType": "verb",
+    "examples": [
+      "I will finish the project by Friday.",
+      "She will attend the meeting next week.",
+      "They will get married on their anniversary."
+    ],
+    "synonyms": [
+      "intend",
+      "plan",
+      "propose"
+    ],
+    "antonyms": [
+      "refuse",
+      "decline",
+      "omit"
+    ]
+  },
+  {
+    "word": "there",
+    "definition": "At or in that place; at that time.",
+    "wordType": "adverb",
+    "examples": [
+      "Put the box over there on the shelf.",
+      "I'll meet you there at 5 o'clock.",
+      "She grew up there and always remained fond of the place."
+    ],
+    "synonyms": [
+      "therefore",
+      "thither",
+      "yonder"
+    ],
+    "antonyms": [
+      "here",
+      "hence",
+      "back"
+    ]
+  },
+  {
+    "word": "can",
+    "definition": "hold or enclose in a container",
+    "wordType": "verb",
+    "examples": [
+      "I can hold five apples in this bag.",
+      "She can squeeze the juice from an orange.",
+      "He can pour water into a bucket."
+    ],
+    "synonyms": [
+      "contain",
+      "enclose",
+      "hold"
+    ],
+    "antonyms": [
+      "cannot",
+      "won't",
+      "refuse"
+    ]
+  },
+  {
+    "word": "if",
+    "definition": "A condition or circumstance that is assumed to occur, used in hypothetical statements to introduce a clause indicating the conditions under which something would happen.",
+    "wordType": "Conjunction",
+    "examples": [
+      "If I had studied harder, I would have passed the test.",
+      "The company will expand if they receive the necessary funding.",
+      "The deal will fall through if the buyer doesn't get financing."
+    ],
+    "synonyms": [
+      "provided that",
+      "supposing that",
+      "assuming that"
+    ],
+    "antonyms": [
+      "except when",
+      "unless",
+      "in case not"
+    ]
+  },
+  {
+    "word": "other",
+    "definition": "Designating or belonging to a class, category, or group different from one's own",
+    "wordType": "adjective",
+    "examples": [
+      "A student who was 'other' in their small town finally found acceptance at college",
+      "The unique culture of the indigenous people made them 'other' to outsiders",
+      "In a world where conformity is highly valued, being 'other' can be seen as a threat"
+    ],
+    "synonyms": [
+      "different",
+      "unlike",
+      "distinct"
+    ],
+    "antonyms": [
+      "same",
+      "similar",
+      "alike"
+    ]
+  },
+  {
+    "word": "would",
+    "definition": "expressing a hypothetical or conditional situation, typically with an intention to emphasize a possibility or probability rather than certainty",
+    "wordType": "verb",
+    "examples": [
+      "If I won the lottery, I would buy a house on the beach.",
+      "She would never agree to that proposal.",
+      "I would not have survived that night if it weren't for my friends."
+    ],
+    "synonyms": [
+      "should",
+      "were",
+      "might"
+    ],
+    "antonyms": [
+      "could not",
+      "wouldn't",
+      "can't"
+    ]
+  },
+  {
+    "word": "no",
+    "definition": "A denial or expression of refusal, rejection, or negation.",
+    "wordType": "adverb",
+    "examples": [
+      "I'm not going to the party tonight.",
+      "She said no to his proposal.",
+      "He wasn't happy with the result."
+    ],
+    "synonyms": [
+      "refuse",
+      "decline",
+      "disagree"
+    ],
+    "antonyms": [
+      "yes",
+      "affirmative",
+      "agreed"
+    ]
+  },
+  {
+    "word": "her",
+    "definition": "the possessive form of she, used to indicate that something belongs to her",
+    "wordType": "pronoun",
+    "examples": [
+      "She is going to the store for her.",
+      "The gift was for her birthday.",
+      "Her car is parked on the street."
+    ],
+    "synonyms": [
+      "hers",
+      "her own",
+      "of hers"
+    ],
+    "antonyms": [
+      "his",
+      "its",
+      "their"
+    ]
+  },
+  {
+    "word": "may",
+    "definition": "express or imply a wish, intention, or possibility",
+    "wordType": "verb",
+    "examples": [
+      "I may go to the store tomorrow.",
+      "She may have already left for work.",
+      "It may rain this weekend."
+    ],
+    "synonyms": [
+      "might",
+      "could",
+      "potentially"
+    ],
+    "antonyms": [
+      "must not",
+      "should not",
+      "is unlikely to"
+    ]
+  },
+  {
+    "word": "more",
+    "definition": "Extending or increasing in amount, quantity, degree, or scope; to a greater extent.",
+    "wordType": "adverb",
+    "examples": [
+      "This cake is more delicious than the last one I tried.",
+      "The new employee was more productive than his predecessor.",
+      "She studied more hours each day than her classmates."
+    ],
+    "synonyms": [
+      "additional",
+      "extra",
+      "further"
+    ],
+    "antonyms": [
+      "fewer",
+      "less",
+      "shorter"
+    ]
+  },
+  {
+    "word": "when",
+    "definition": "At what point in time?",
+    "wordType": "Conjunction",
+    "examples": [
+      "I'll meet you when I arrive at the party.",
+      "The sale will end when all products are sold out.",
+      "We can go to the movies when my sister is free."
+    ],
+    "synonyms": [
+      "whenever",
+      "at the time",
+      "in the moment"
+    ],
+    "antonyms": [
+      "before",
+      "prior to",
+      "until"
+    ]
+  },
+  {
+    "word": "so",
+    "definition": "To that extent or degree; to such a point",
+    "wordType": "adverb",
+    "examples": [
+      "I'm going so far today.",
+      "The cake is so good, it's almost too good to be true.",
+      "She's been feeling so sick all day."
+    ],
+    "synonyms": [
+      "such",
+      "to that extent",
+      "to the same degree"
+    ],
+    "antonyms": [
+      "not at all",
+      "hardly",
+      "completely not"
+    ]
+  },
+  {
+    "word": "its",
+    "definition": "Possessive form of it, used to show that something belongs to 'it'",
+    "wordType": "pronoun",
+    "examples": [
+      "The cat likes to chase its tail.",
+      "It's a beautiful day outside, so go ahead and take a walk in the park, but don't forget to bring its leash.",
+      "The company is proud of its new product launch."
+    ],
+    "synonyms": [
+      "hers",
+      "theirs",
+      "its own"
+    ],
+    "antonyms": [
+      "none",
+      "neither",
+      "no one's"
+    ]
+  },
+  {
+    "word": "who",
+    "definition": "The person or people involved in a particular action, activity, or situation",
+    "wordType": "pronoun",
+    "examples": [
+      "Who is going to the store?",
+      "Only my sister knows who ate the last cookie.",
+      "Can you tell me who won the game?"
+    ],
+    "synonyms": [
+      "whom",
+      "that person",
+      "those people"
+    ],
+    "antonyms": [
+      "what",
+      "which",
+      "that"
+    ]
+  },
+  {
+    "word": "such",
+    "definition": "So extreme or intense as to be unbelievable; extremely",
+    "wordType": "adverb",
+    "examples": [
+      "The movie was such a thriller that I had trouble sleeping afterwards.",
+      "This new restaurant is such a hit with the locals, it's always packed.",
+      "The company made such a huge profit last quarter that they're expanding their operations."
+    ],
+    "synonyms": [
+      "extreme",
+      "intense",
+      "excessive"
+    ],
+    "antonyms": [
+      "mild",
+      "moderate",
+      "substantial"
+    ]
+  },
+  {
+    "word": "these",
+    "definition": "used to refer to things that are near or around you, especially those that can be seen or touched",
+    "wordType": "determiner",
+    "examples": [
+      "I love these old movies.",
+      "Can I try on these shoes?",
+      "These flowers are beautiful."
+    ],
+    "synonyms": [
+      "those",
+      "these ones",
+      "the current"
+    ],
+    "antonyms": [
+      "those others",
+      "all the rest",
+      "none of those"
+    ]
+  },
+  {
+    "word": "any",
+    "definition": "used to indicate that something is possible or available; a quantity or amount specified by someone",
+    "wordType": "adverb",
+    "examples": [
+      "You can take any book you like from the library.",
+      "I'll do anything to help my friend.",
+      "She's going anywhere she pleases with her new driver's license."
+    ],
+    "synonyms": [
+      "every",
+      "some",
+      "whichever"
+    ],
+    "antonyms": [
+      "none",
+      "neither",
+      "not"
+    ]
+  },
+  {
+    "word": "she",
+    "definition": "a female person, including a girl or woman",
+    "wordType": "pronoun",
+    "examples": [
+      "She is going to the store.",
+      "The new employee is she that just started.",
+      "When she walked in, everyone turned around."
+    ],
+    "synonyms": [
+      "her",
+      "herself",
+      "her"
+    ],
+    "antonyms": [
+      "he",
+      "himself",
+      "it"
+    ]
+  },
+  {
+    "word": "time",
+    "definition": "A measure of the duration or sequence of events",
+    "wordType": "noun",
+    "examples": [
+      "The time has come to make a decision.",
+      "I've got plenty of time to finish this project.",
+      "She's running out of time to complete her thesis."
+    ],
+    "synonyms": [
+      "moment",
+      "instant",
+      "instantaneous"
+    ],
+    "antonyms": [
+      "eternity",
+      "forever",
+      "infinity"
+    ]
+  },
+  {
+    "word": "than",
+    "definition": "Used to indicate a comparison between two things, indicating that one thing is greater than, less than, or equal to another.",
+    "wordType": "Preposition",
+    "examples": [
+      "This car is faster than the one we had last year.",
+      "She's taller than her brother.",
+      "The new policy is more stringent than the old one."
+    ],
+    "synonyms": [
+      "more",
+      "over",
+      "beyond"
+    ],
+    "antonyms": [
+      "under",
+      "below",
+      "less"
+    ]
+  },
+  {
+    "word": "some",
+    "definition": "A small amount or quantity of something",
+    "wordType": "Determiner",
+    "examples": [
+      "I'll take some coffee, please.",
+      "She has some experience in the field.",
+      "He always orders some extra fries."
+    ],
+    "synonyms": [
+      "certain",
+      "certainly",
+      "a few"
+    ],
+    "antonyms": [
+      "none",
+      "not any",
+      "all"
+    ]
+  },
+  {
+    "word": "what",
+    "definition": "A question used to inquire about or seek information regarding something, often expressed through a phrase such as 'What is that?' or 'What are you doing?'",
+    "wordType": "interrogative pronoun",
+    "examples": [
+      "I asked my friend What's your favorite food?",
+      "Can you tell me What the weather will be like tomorrow?",
+      "She wondered What was going on behind the closed door."
+    ],
+    "synonyms": [
+      "which",
+      "whom",
+      "whose"
+    ],
+    "antonyms": [
+      "why",
+      "when",
+      "where"
+    ]
+  },
+  {
+    "word": "only",
+    "definition": "Used to indicate that something is limited to one thing or person, or is the sole instance of its kind.",
+    "wordType": "adverb",
+    "examples": [
+      "I'm only eating a salad for lunch today.",
+      "She's only spoken English since she was five years old.",
+      "He's only read that book once in his life."
+    ],
+    "synonyms": [
+      "solely",
+      "exclusively",
+      "alone"
+    ],
+    "antonyms": [
+      "also",
+      "too",
+      "additionally"
+    ]
+  },
+  {
+    "word": "into",
+    "definition": "to or toward a place, thing, or situation; within the boundaries of something; to the interior of something",
+    "wordType": "preposition",
+    "examples": [
+      "The company is expanding into new markets.",
+      "She walked into the room with confidence.",
+      "The ball flew into the net."
+    ],
+    "synonyms": [
+      "in",
+      "within",
+      "to"
+    ],
+    "antonyms": [
+      "out",
+      "away from",
+      "beyond"
+    ]
+  },
+  {
+    "word": "them",
+    "definition": "a group of people, animals, or things that are being referred to or considered",
+    "wordType": "object pronoun",
+    "examples": [
+      "I'm going to the store for them.",
+      "The new policy affects them all.",
+      "They're trying to help them get back on their feet."
+    ],
+    "synonyms": [
+      "themself",
+      "themselves",
+      "those people"
+    ],
+    "antonyms": [
+      "me",
+      "us",
+      "myself"
+    ]
+  },
+  {
+    "word": "two",
+    "definition": "A number that is one more than one.",
+    "wordType": "number",
+    "examples": [
+      "I have two dogs, and they are both very friendly.",
+      "There are two main ingredients in this recipe: flour and sugar.",
+      "The company has two offices in different cities."
+    ],
+    "synonyms": [
+      "second",
+      "binary",
+      "dual"
+    ],
+    "antonyms": [
+      "one",
+      "few",
+      "single"
+    ]
+  },
+  {
+    "word": "also",
+    "definition": "In addition to; besides; equally well",
+    "wordType": "adverb",
+    "examples": [
+      "I'm going to the store, and she's also going.",
+      "The new employee is also qualified for the promotion.",
+      "He not only studied but also played basketball."
+    ],
+    "synonyms": [
+      "too",
+      "very",
+      "likewise"
+    ],
+    "antonyms": [
+      "instead",
+      "alone",
+      "separately"
+    ]
+  },
+  {
+    "word": "about",
+    "definition": "Relating to or concerning a person, thing, or matter; regarding, with respect to.",
+    "wordType": "Preposition",
+    "examples": [
+      "The new policy is about reducing waste and conserving resources.",
+      "She's writing a book about her childhood.",
+      "He's passionate about environmental issues."
+    ],
+    "synonyms": [
+      "concerning",
+      "regarding",
+      "pertaining"
+    ],
+    "antonyms": [
+      "against",
+      "opposite",
+      "independent of"
+    ]
+  },
+  {
+    "word": "out",
+    "definition": "Moving or extending beyond a boundary, limit, or enclosure; said of things that are leaving a place or state.",
+    "wordType": "preposition",
+    "examples": [
+      "The cat ran out of the house and into the yard.",
+      "The party is going to be held out in the country.",
+      "Please put the books out on the table."
+    ],
+    "synonyms": [
+      "outside",
+      "without",
+      "beyond"
+    ],
+    "antonyms": [
+      "in",
+      "inside",
+      "within"
+    ]
+  },
+  {
+    "word": "him",
+    "definition": "the object of a verb or preposition typically used to refer to a male person or animal",
+    "wordType": "pronoun",
+    "examples": [
+      "The teacher asked him to do the homework.",
+      "He gave the ball to him and walked away.",
+      "The award was given to him for his outstanding work."
+    ],
+    "synonyms": [
+      "he",
+      "himself",
+      "the man"
+    ],
+    "antonyms": [
+      "her",
+      "herself",
+      "the woman"
+    ]
+  },
+  {
+    "word": "my",
+    "definition": "possessive or belonging to the speaker",
+    "wordType": "adjective",
+    "examples": [
+      "This is my car.",
+      "That's my book, not yours.",
+      "My favorite food is pizza."
+    ],
+    "synonyms": [
+      "mine",
+      "belonging",
+      "personal"
+    ],
+    "antonyms": [
+      "theirs",
+      "public",
+      "shared"
+    ]
+  },
+  {
+    "word": "said",
+    "definition": "Expressed or declared in words; uttered",
+    "wordType": "verb",
+    "examples": [
+      "She said she was going to the store.",
+      "He said he would be late for dinner.",
+      "They said they were not coming to the party."
+    ],
+    "synonyms": [
+      "uttered",
+      "expressed",
+      "declared"
+    ],
+    "antonyms": [
+      "denied",
+      "refused",
+      "withheld"
+    ]
+  },
+  {
+    "word": "up",
+    "definition": "Moving or directed towards a higher position or location; opposite the direction of gravity.",
+    "wordType": "adverb",
+    "examples": [
+      "The kite flew up into the sky.",
+      "She got up from her chair to get a snack.",
+      "The balloon went up and popped."
+    ],
+    "synonyms": [
+      "upward",
+      "aloft",
+      "ascendant"
+    ],
+    "antonyms": [
+      "down",
+      "descending",
+      "lowered"
+    ]
+  },
+  {
+    "word": "first",
+    "definition": "being the original or earliest in time, order, or sequence",
+    "wordType": "adjective",
+    "examples": [
+      "This is the first time I've tried this recipe.",
+      "I was the first one to finish the project.",
+      "The new employee was the first to arrive."
+    ],
+    "synonyms": [
+      "initial",
+      "primary",
+      "prior"
+    ],
+    "antonyms": [
+      "last",
+      "final",
+      "ultimate"
+    ]
+  },
+  {
+    "word": "should",
+    "definition": "expressing obligation, possibility, or advice",
+    "wordType": "auxiliary verb",
+    "examples": [
+      "If you finish your homework, you should go out and play.",
+      "You should eat a balanced diet to stay healthy.",
+      "The teacher said that I should practice my piano skills more often."
+    ],
+    "synonyms": [
+      "ought to",
+      "must",
+      "have to"
+    ],
+    "antonyms": [
+      "need not",
+      "can't",
+      "won't"
+    ]
+  },
+  {
+    "word": "under",
+    "definition": "Below or at a lower level; not above.",
+    "wordType": "preposition",
+    "examples": [
+      "The cat is under the bed.",
+      "The city streets are under construction.",
+      "She's hiding under her blanket."
+    ],
+    "synonyms": [
+      "beneath",
+      "below",
+      "lower"
+    ],
+    "antonyms": [
+      "above",
+      "over",
+      "higher"
+    ]
+  },
+  {
+    "word": "made",
+    "definition": "Past participle of make, formed or created",
+    "wordType": "verb",
+    "examples": [
+      "The company made a significant profit last year.",
+      "She made a mistake on the test and had to retake it.",
+      "He made a fortune investing in real estate."
+    ],
+    "synonyms": [
+      "formed",
+      "created",
+      "produced"
+    ],
+    "antonyms": [
+      "unmade",
+      "undone",
+      "destroyed"
+    ]
+  },
+  {
+    "word": "State",
+    "definition": "A condition or mode in which something exists, happens, or is done",
+    "wordType": "noun",
+    "examples": [
+      "A state of emergency was declared.",
+      "The government has taken a strong stance on the issue.",
+      "The company is in a state of disarray after the scandal."
+    ],
+    "synonyms": [
+      [
+        "Condition"
+      ],
+      [
+        "Situation"
+      ],
+      [
+        "Mode"
+      ]
+    ],
+    "antonyms": [
+      [
+        " Chaos"
+      ],
+      [
+        "Disorder"
+      ],
+      [
+        "Confusion"
+      ]
+    ]
+  },
+  {
+    "word": "see",
+    "definition": "To perceive with one's eyes; to have a clear mental view of something",
+    "wordType": "verb",
+    "examples": [
+      "I see the sun setting in the sky",
+      "She sees the world through different eyes",
+      "They can see the logic behind my argument"
+    ],
+    "synonyms": [
+      "view",
+      "perceive",
+      "observe"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "disregard"
+    ]
+  },
+  {
+    "word": "after",
+    "definition": "Following in time or order; subsequent.",
+    "wordType": "adverb",
+    "examples": [
+      "The party went on until after midnight.",
+      "We'll meet up again after lunch.",
+      "He won the award after years of hard work."
+    ],
+    "synonyms": [
+      "subsequently",
+      "laterally",
+      "following"
+    ],
+    "antonyms": [
+      "beforehand",
+      "previously",
+      "earlier"
+    ]
+  },
+  {
+    "word": "could",
+    "definition": "have a possibility of happening or being done",
+    "wordType": "verb",
+    "examples": [
+      "If I studied harder, I could pass the exam.",
+      "She could speak three languages fluently.",
+      "The company could go bankrupt if they don't adjust their budget."
+    ],
+    "synonyms": [
+      "might",
+      "may",
+      "can"
+    ],
+    "antonyms": [
+      "mustn't",
+      "won't",
+      "can't"
+    ]
+  },
+  {
+    "word": "then",
+    "definition": "Next in time or order; subsequently.",
+    "wordType": "adverb",
+    "examples": [
+      "I'll finish my homework, and then I'll go to the movies.",
+      "If you want to join us for dinner, come over at 6:00 pm, and then we'll eat.",
+      "She studied hard for her exam, and then she went out with friends."
+    ],
+    "synonyms": [
+      "next",
+      "subsequently",
+      "afterwards"
+    ],
+    "antonyms": [
+      "beforehand",
+      "previously",
+      "prior to"
+    ]
+  },
+  {
+    "word": "me",
+    "definition": "the object or person referred to by oneself when speaking or writing",
+    "wordType": "pronoun",
+    "examples": [
+      "When I look in the mirror, it's always me who smiles back.",
+      "The artist painted a self-portrait of me holding my favorite guitar.",
+      "In this photo, you can see me hiking in the mountains with friends."
+    ],
+    "synonyms": [
+      "oneself",
+      "myself",
+      "I"
+    ],
+    "antonyms": [
+      "you",
+      "them",
+      "it"
+    ]
+  },
+  {
+    "word": "most",
+    "definition": "superlative form of good or great in degree or amount; the greatest part or extent of something",
+    "wordType": "adverb",
+    "examples": [
+      "She is most likely to succeed in this competition.",
+      "This cake is most delicious I've ever had.",
+      "He is most probably going to be late for the meeting."
+    ],
+    "synonyms": [
+      "greatest",
+      "biggest",
+      "largest"
+    ],
+    "antonyms": [
+      "least",
+      "smallest",
+      "minimum"
+    ]
+  },
+  {
+    "word": "over",
+    "definition": "Above or higher in position, amount, or degree; beyond the surface of something.",
+    "wordType": "preposition",
+    "examples": [
+      "The ball went over the fence.",
+      "She's going to be over the moon when she hears the news.",
+      "He walked over to the store to pick up some milk."
+    ],
+    "synonyms": [
+      "above",
+      "higher",
+      "beyond"
+    ],
+    "antonyms": [
+      "under",
+      "below",
+      "beneath"
+    ]
+  },
+  {
+    "word": "very",
+    "definition": "To a great extent; to a high degree.",
+    "wordType": "adverb",
+    "examples": [
+      "She is very talented and has won several awards.",
+      "He is very happy with his new job.",
+      "They are very sorry for the inconvenience."
+    ],
+    "synonyms": [
+      "extremely",
+      "highly",
+      "remarkably"
+    ],
+    "antonyms": [
+      "slightly",
+      "minimally",
+      "barely"
+    ]
+  },
+  {
+    "word": "between",
+    "definition": "In or to a position situated on both sides of something; from one side to the other.",
+    "wordType": "preposition",
+    "examples": [
+      "The restaurant is located between the movie theater and the park.",
+      "I'm stuck between two jobs, trying to decide which one to take.",
+      "There's a small gap between the wall and the floor that needs to be fixed."
+    ],
+    "synonyms": [
+      "midway",
+      "in the middle of",
+      "amidst"
+    ],
+    "antonyms": [
+      "outside",
+      "apart from",
+      "beyond"
+    ]
+  },
+  {
+    "word": "where",
+    "definition": "At or in what position or location?",
+    "wordType": "adverb",
+    "examples": [
+      "The treasure is hidden where the map says it should be.",
+      "I'm going to the store where I got my favorite coffee mug.",
+      "You can find me at the park where we used to play"
+    ],
+    "synonyms": [
+      "whence",
+      "from whence",
+      "hence"
+    ],
+    "antonyms": [
+      "nowhere",
+      "where not",
+      "unspecified"
+    ]
+  },
+  {
+    "word": "now",
+    "definition": "at the present time; simultaneously with this moment",
+    "wordType": "adverb",
+    "examples": [
+      "I'll meet you now at the park.",
+      "The concert starts now, let's go!",
+      "It's raining now, but it should clear up later."
+    ],
+    "synonyms": [
+      "currently",
+      "presently",
+      "immediately"
+    ],
+    "antonyms": [
+      "later",
+      "then",
+      "formerly"
+    ]
+  },
+  {
+    "word": "shall",
+    "definition": "used to express a decision or intention, often indicating future action or obligation",
+    "wordType": "verb",
+    "examples": [
+      "A promise is made that something shall happen",
+      "The company shall increase its investment in renewable energy by 2025",
+      "By the end of the quarter, the project shall be completed"
+    ],
+    "synonyms": [
+      "must",
+      "have to",
+      "is required to"
+    ],
+    "antonyms": [
+      "may not",
+      "cannot",
+      "will not"
+    ]
+  },
+  {
+    "word": "work",
+    "definition": "The activity of making a living by doing something that one is paid for.",
+    "wordType": "verb",
+    "examples": [
+      "She has been working hard to get her degree",
+      "He works as an engineer in a big company",
+      "I work as a freelance writer"
+    ],
+    "synonyms": [
+      "job",
+      "occupation",
+      "task"
+    ],
+    "antonyms": [
+      "play",
+      "leisure",
+      "relax"
+    ]
+  },
+  {
+    "word": "those",
+    "definition": "Referring to people or things previously mentioned or already known.",
+    "wordType": "pronoun",
+    "examples": [
+      "Those who are willing to take risks are often the most successful.",
+      "The new policy applies only to those employees who have been with the company for more than five years.",
+      "I'll give the prize to those who can solve this puzzle"
+    ],
+    "synonyms": [
+      "those people",
+      "those things",
+      "all of them"
+    ],
+    "antonyms": [
+      "none of these",
+      "some of them",
+      "a few of them"
+    ]
+  },
+  {
+    "word": "same",
+    "definition": "Having no difference or distinction; identical in kind, nature, or quality.",
+    "wordType": "adverb",
+    "examples": [
+      "He's the same person I've known all my life.",
+      "The new employee is the same as her predecessor.",
+      "They're the same age."
+    ],
+    "synonyms": [
+      "identical",
+      "alike",
+      "uniform"
+    ],
+    "antonyms": [
+      "different",
+      "distinct",
+      "unique"
+    ]
+  },
+  {
+    "word": "well",
+    "definition": "A satisfactory or acceptable manner or degree; in a good way.",
+    "wordType": "adverb",
+    "examples": [
+      "The doctor explained the treatment well.",
+      "She spoke well of her experience abroad.",
+      "He played his part well, earning applause from the audience."
+    ],
+    "synonyms": [
+      "adequately",
+      "competently",
+      "effectively"
+    ],
+    "antonyms": [
+      "badly",
+      "poorly",
+      "ineffectually"
+    ]
+  },
+  {
+    "word": "each",
+    "definition": "Each refers to one thing out of a group or collection, emphasizing individuality.",
+    "wordType": "pronoun",
+    "examples": [
+      "I will give each student a book.",
+      "She chose a gift for each friend.",
+      "The teacher graded each test separately."
+    ],
+    "synonyms": [
+      "every",
+      "individual",
+      "distinct"
+    ],
+    "antonyms": [
+      "all",
+      "both",
+      "collective"
+    ]
+  },
+  {
+    "word": "many",
+    "definition": "Consisting of or amounting to a large number of individuals, units, or instances.",
+    "wordType": "adverb",
+    "examples": [
+      "The many trees in the forest were affected by the storm",
+      "She has many friends from her childhood",
+      "The company has many offices around the world"
+    ],
+    "synonyms": [
+      "numerous",
+      "multitudinous",
+      "plentiful"
+    ],
+    "antonyms": [
+      "few",
+      "scanty",
+      "sparse"
+    ]
+  },
+  {
+    "word": "being",
+    "definition": "The state of existence, a continuous or ongoing process",
+    "wordType": "verb",
+    "examples": [
+      "Life is a being, not just an existing entity.",
+      "Being present in the moment is key to happiness.",
+      "Being open-minded can lead to new experiences."
+    ],
+    "synonyms": [
+      "existence",
+      "living",
+      "existence"
+    ],
+    "antonyms": [
+      "nonbeing",
+      "nothingness",
+      "absence"
+    ]
+  },
+  {
+    "word": "years",
+    "definition": "A long period of time, often used to measure a person's age or the duration of an event.",
+    "wordType": "noun",
+    "examples": [
+      "The queen has reigned for 70 years.",
+      "He's been teaching for over 20 years.",
+      "The company has been in business for over 50 years."
+    ],
+    "synonyms": [
+      "eras",
+      "periods",
+      "centuries"
+    ],
+    "antonyms": [
+      "moments",
+      "seconds",
+      "instants"
+    ]
+  },
+  {
+    "word": "did",
+    "definition": "perform or accomplish a specified action",
+    "wordType": "verb",
+    "examples": [
+      "She did her homework every night.",
+      "He did not show up for the meeting.",
+      "They did not want to go to the party."
+    ],
+    "synonyms": [
+      "accomplished",
+      "completed",
+      "performed"
+    ],
+    "antonyms": [
+      "did not",
+      "failed",
+      "refused"
+    ]
+  },
+  {
+    "word": "year",
+    "definition": "A period of 365 days (except for leap years, which have 366 days), used to measure the duration of events or periods.",
+    "wordType": "noun",
+    "examples": [
+      "The company's annual report is due by the end of the year.",
+      "The new employee started in January and will be with us for a whole year.",
+      "We've been trying to reduce our carbon footprint for several years."
+    ],
+    "synonyms": [
+      "anniversary",
+      "term",
+      "cycle"
+    ],
+    "antonyms": [
+      "month",
+      "season",
+      "moment"
+    ]
+  },
+  {
+    "word": "through",
+    "definition": "From one side to the other side of something, either physically or figuratively.",
+    "wordType": "preposition",
+    "examples": [
+      "I'm driving through the city to get to work.",
+      "The train will take you through the mountains.",
+      "You can go through my things if you want."
+    ],
+    "synonyms": [
+      "by",
+      "across",
+      "past"
+    ],
+    "antonyms": [
+      "from",
+      "away from",
+      "beyond"
+    ]
+  },
+  {
+    "word": "must",
+    "definition": "have to; be necessary",
+    "wordType": "verb, auxiliary verb",
+    "examples": [
+      "I must finish my homework tonight.",
+      "You must try this new restaurant.",
+      "She must be a good teacher."
+    ],
+    "synonyms": [
+      "have to",
+      "need to",
+      "be obliged"
+    ],
+    "antonyms": [
+      "don't have to",
+      "aren't required",
+      "can avoid"
+    ]
+  },
+  {
+    "word": "upon",
+    "definition": "At or near the top of something; in a position above something",
+    "wordType": "preposition",
+    "examples": [
+      "The flag waved upon the pole.",
+      "She stood upon the hill, taking in the view.",
+      "He placed his hat upon the table."
+    ],
+    "synonyms": [
+      "on",
+      "above",
+      "over"
+    ],
+    "antonyms": [
+      "below",
+      "beneath",
+      "under"
+    ]
+  },
+  {
+    "word": "before",
+    "definition": "Earlier in time; in advance of a specified or implied point in time.",
+    "wordType": "preposition",
+    "examples": [
+      "I'll finish the project before the deadline arrives.",
+      "The doctor examined the patient before performing the surgery.",
+      "We need to prepare everything before we can leave."
+    ],
+    "synonyms": [
+      "prior to",
+      "earlier than",
+      "in advance of"
+    ],
+    "antonyms": [
+      "after",
+      "following",
+      "subsequent"
+    ]
+  },
+  {
+    "word": "use",
+    "definition": "to employ or make use of something; to take advantage of an opportunity or facility.",
+    "wordType": "verb",
+    "examples": [
+      "I'm going to use this tool to fix the car.",
+      "The company will use social media to promote their new product.",
+      "She likes to use her creativity when solving puzzles."
+    ],
+    "synonyms": [
+      "utilize",
+      "employ",
+      "apply"
+    ],
+    "antonyms": [
+      "abandon",
+      "neglect",
+      "refrain"
+    ]
+  },
+  {
+    "word": "part",
+    "definition": "A small portion or share of something; a separate section or division of something.",
+    "wordType": "noun",
+    "examples": [
+      "The part of the car that needs to be replaced is the exhaust system.",
+      "She played a key part in the company's success.",
+      "He felt like he was playing only a small part in the game."
+    ],
+    "synonyms": [
+      "component",
+      "section",
+      "portion"
+    ],
+    "antonyms": [
+      "whole",
+      "complete",
+      "integral"
+    ]
+  },
+  {
+    "word": "general",
+    "definition": "Describing or relating to a broad category or class; not specific or detailed.",
+    "wordType": "adjective",
+    "examples": [
+      "The general public is welcome to attend the concert",
+      "He's a general manager at the company",
+      "The general consensus was that it was a good movie"
+    ],
+    "synonyms": [
+      "broad",
+      "vague",
+      "unspecific"
+    ],
+    "antonyms": [
+      "specific",
+      "particular",
+      "precise"
+    ]
+  },
+  {
+    "word": "people",
+    "definition": "Human beings in general, regarded as a group or collective: public.",
+    "wordType": "noun",
+    "examples": [
+      "A diverse crowd of people gathered at the park.",
+      "The new policy will benefit many people.",
+      "She loves meeting new people and making friends."
+    ],
+    "synonyms": [
+      "folk",
+      "crowd",
+      "population"
+    ],
+    "antonyms": [
+      "animals",
+      "beasts",
+      "monsters"
+    ]
+  },
+  {
+    "word": "because",
+    "definition": "As a result or reason; consequently",
+    "wordType": "subordinating conjunction",
+    "examples": [
+      "The storm occurred because of the hurricane's strong winds",
+      "She quit her job because she was unhappy with the work environment",
+      "He didn't attend the meeting because he had prior commitments"
+    ],
+    "synonyms": [
+      "therefore",
+      "consequently",
+      "hence"
+    ],
+    "antonyms": [
+      "despite",
+      "nevertheless",
+      "regardless"
+    ]
+  },
+  {
+    "word": "used",
+    "definition": "Past participle of use, indicating something has been utilized or consumed.",
+    "wordType": "verb",
+    "examples": [
+      "A car that was used to get to the store is now for sale.",
+      "After being used once, the plate was washed and put away.",
+      "The company used a new strategy to boost sales."
+    ],
+    "synonyms": [
+      "utilized",
+      "worn out",
+      "exhausted"
+    ],
+    "antonyms": [
+      "unused",
+      "inactive",
+      "newly acquired"
+    ]
+  },
+  {
+    "word": "how",
+    "definition": "In what manner or way; by what means",
+    "wordType": "adverb",
+    "examples": [
+      "How do you like your eggs?",
+      "How's it going?",
+      "How are you feeling?"
+    ],
+    "synonyms": [
+      "in what",
+      "by which method",
+      "to what extent"
+    ],
+    "antonyms": [
+      "unnecessarily",
+      "illogically",
+      "unreasonably"
+    ]
+  },
+  {
+    "word": "even",
+    "definition": "Having a value that is divisible by 2, or having a quality of smoothness or consistency.",
+    "wordType": "adverb",
+    "examples": [
+      "The game was even at halftime, but the home team pulled ahead in the second half.",
+      "She made an even attempt to hit the target, but it went wide.",
+      "The weather forecast called for an even chance of rain and sunshine."
+    ],
+    "synonyms": [
+      "uniform",
+      "equal",
+      "balanced"
+    ],
+    "antonyms": [
+      "odd",
+      "uneven",
+      "unbalanced"
+    ]
+  },
+  {
+    "word": "much",
+    "definition": "To a great extent; very: He has studied much, but he is still not fluent.",
+    "wordType": "adverb",
+    "examples": [
+      "I've been working much harder lately to meet the deadline.",
+      "The new policy will help many people, but it won't solve the problem as much as we had hoped.",
+      "The company has grown much larger since its inception."
+    ],
+    "synonyms": [
+      "a lot",
+      "very",
+      "extremely"
+    ],
+    "antonyms": [
+      "little",
+      "slightly",
+      "somewhat"
+    ]
+  },
+  {
+    "word": "during",
+    "definition": "in the course of time indicated; while something is happening or existing",
+    "wordType": "preposition",
+    "examples": [
+      "The project was being developed during the entire year",
+      "We took a trip to Europe during our summer break",
+      "She was studying abroad during the fall semester"
+    ],
+    "synonyms": [
+      "in the midst of",
+      "while",
+      "as"
+    ],
+    "antonyms": [
+      "prior to",
+      "before",
+      "until"
+    ]
+  },
+  {
+    "word": "both",
+    "definition": "Used to indicate that two things or groups are being referred to collectively, or that something is happening equally in relation to both.",
+    "wordType": "adverb",
+    "examples": [
+      "I like both coffee and tea.",
+      "She went to the store with both her kids.",
+      "The company will invest in both research and development."
+    ],
+    "synonyms": [
+      "dual",
+      "combined",
+      "jointly"
+    ],
+    "antonyms": [
+      "neither",
+      "either",
+      "separately"
+    ]
+  },
+  {
+    "word": "case",
+    "definition": "A situation or circumstance requiring a particular decision, action, or investigation.",
+    "wordType": "noun",
+    "examples": [
+      "The court took up the case of the accused felon.",
+      "In this case, the best approach is to consult an expert.",
+      "The new policy applies in all cases where employees are entitled to overtime pay."
+    ],
+    "synonyms": [
+      "instance",
+      "situation",
+      "circumstance"
+    ],
+    "antonyms": [
+      "exception",
+      "exemption",
+      "dispensation"
+    ]
+  },
+  {
+    "word": "three",
+    "definition": "A number greater than two but less than four.",
+    "wordType": "numeral",
+    "examples": [
+      "I have three dogs at home.",
+      "The recipe calls for three eggs.",
+      "There are three stages to the process."
+    ],
+    "synonyms": [
+      "triple",
+      "ternary",
+      "triad"
+    ],
+    "antonyms": [
+      "one",
+      "two",
+      "few"
+    ]
+  },
+  {
+    "word": "number",
+    "definition": "A value that represents a quantity or magnitude.",
+    "wordType": "noun",
+    "examples": [
+      "The number of students in the class was impressive.",
+      "The winning number in the lottery was 7.",
+      "There were only three numbers on the list."
+    ],
+    "synonyms": [
+      "figure",
+      "quantum",
+      "digit"
+    ],
+    "antonyms": [
+      "zero",
+      "nothing",
+      "none"
+    ]
+  },
+  {
+    "word": "make",
+    "definition": "to create or bring into existence something that is not present before",
+    "wordType": "verb",
+    "examples": [
+      "I'll make dinner tonight",
+      "She makes beautiful sculptures",
+      "He's making a big mistake"
+    ],
+    "synonyms": [
+      "create",
+      "construct",
+      "build"
+    ],
+    "antonyms": [
+      "destroy",
+      "break",
+      "undo"
+    ]
+  },
+  {
+    "word": "per",
+    "definition": "For each of; in proportion to, or for every",
+    "wordType": "Preposition",
+    "examples": [
+      "I'll give you 50 cents per book.",
+      "The company charges $10 per hour for overtime work.",
+      "The yield on the bond is 5% per annum."
+    ],
+    "synonyms": [
+      "for",
+      "each",
+      "every"
+    ],
+    "antonyms": [
+      "apart from",
+      "beyond",
+      "unrelated to"
+    ]
+  },
+  {
+    "word": "great",
+    "definition": "Extremely good or excellent in quality, amount, or degree.",
+    "wordType": "adjective",
+    "examples": [
+      "The new restaurant was great, and we had a fantastic time.",
+      "She's a great singer and performs with such passion.",
+      "The team played great and won the championship."
+    ],
+    "synonyms": [
+      "excellent",
+      "outstanding",
+      "superb"
+    ],
+    "antonyms": [
+      "poor",
+      "bad",
+      "unimpressive"
+    ]
+  },
+  {
+    "word": "Act",
+    "definition": "To perform or do something in a specific way, often with a sense of purpose or intention.",
+    "wordType": "verb",
+    "examples": [
+      "She will act quickly to resolve the issue.",
+      "The actor took the stage and began to act out the scene.",
+      "The government is expected to act on the new legislation."
+    ],
+    "synonyms": [
+      "perform",
+      "do",
+      "execute"
+    ],
+    "antonyms": [
+      "omit",
+      "neglect",
+      "refrain"
+    ]
+  },
+  {
+    "word": "way",
+    "definition": "a manner of doing something; a route or path taken to get from one place to another",
+    "wordType": "noun, verb",
+    "examples": [
+      "The way to the park is through the woods.",
+      "Can you show me the way to the store?",
+      "Her way of speaking was very soothing."
+    ],
+    "synonyms": [
+      "route",
+      "method",
+      "path"
+    ],
+    "antonyms": [
+      "obstacle",
+      "impediment",
+      "barrier"
+    ]
+  },
+  {
+    "word": "life",
+    "definition": "The condition or quality that distinguishes living beings from dead ones; the spark of vitality in a person, animal, or plant.",
+    "wordType": "noun",
+    "examples": [
+      "The spark of life is what drives us to keep going despite the challenges we face.",
+      "After decades of struggling with illness, she finally found her zest for life.",
+      "The city's vibrant nightlife was the perfect antidote to her dull weekdays."
+    ],
+    "synonyms": [
+      "existence",
+      "biography",
+      "living"
+    ],
+    "antonyms": [
+      "death",
+      "demise",
+      "extinction"
+    ]
+  },
+  {
+    "word": "good",
+    "definition": "pleasing, satisfactory, or of high quality",
+    "wordType": "adjective",
+    "examples": [
+      "The food at the new restaurant is good.",
+      "I had a good time at the party.",
+      "This cake tastes really good."
+    ],
+    "synonyms": [
+      "excellent",
+      "fine",
+      "superb"
+    ],
+    "antonyms": [
+      "bad",
+      "poor",
+      "awful"
+    ]
+  },
+  {
+    "word": "day",
+    "definition": "A 24-hour period, either past, present, or future.",
+    "wordType": "noun",
+    "examples": [
+      "The morning was a beautiful day with clear blue skies and sunshine.",
+      "After a long night, I finally got some rest and enjoyed the rest of the day.",
+      "I plan to spend my free day playing golf with friends."
+    ],
+    "synonyms": [
+      "diurnal period",
+      "morning-afternoon-evening",
+      "span"
+    ],
+    "antonyms": [
+      "night",
+      "evening",
+      "twilight"
+    ]
+  },
+  {
+    "word": "public",
+    "definition": "Open to or shared with everyone; not private: the public is invited to attend.",
+    "wordType": "adjective",
+    "examples": [
+      "The company made a public apology for its mistake.",
+      "The public transportation system in this city is very efficient.",
+      "The government decided to make all the documents public."
+    ],
+    "synonyms": [
+      "general",
+      "universal",
+      " communal"
+    ],
+    "antonyms": [
+      "private",
+      "exclusive",
+      "restricted"
+    ]
+  },
+  {
+    "word": "man",
+    "definition": "An adult human male, typically between puberty and old age.",
+    "wordType": "noun",
+    "examples": [
+      "He's a man of great integrity.",
+      "The new employee is a man on a mission to get the project done.",
+      "The man in the crowd was waving enthusiastically."
+    ],
+    "synonyms": [
+      "gentleman",
+      "male",
+      "adult"
+    ],
+    "antonyms": [
+      "woman",
+      "lady",
+      "female"
+    ]
+  },
+  {
+    "word": "however",
+    "definition": "In any case; on the other hand; yet.",
+    "wordType": "conjunction",
+    "examples": [
+      "I wanted to go, however my car broke down.",
+      "She said she was busy, however she ended up coming anyway.",
+      "He loved playing soccer, however he was terrible at it."
+    ],
+    "synonyms": [
+      "nevertheless",
+      "nonetheless",
+      "still"
+    ],
+    "antonyms": [
+      "therefore",
+      "hence",
+      "thusly"
+    ]
+  },
+  {
+    "word": "system",
+    "definition": "A coordinated whole of checks and controls",
+    "wordType": "noun",
+    "examples": [
+      "The company implemented a new system to streamline production.",
+      "The computer operating system was upgraded last week.",
+      "The healthcare system in the US is complex and inefficient."
+    ],
+    "synonyms": [
+      "structure",
+      "organization",
+      "mechanism"
+    ],
+    "antonyms": [
+      "chaos",
+      "disorder",
+      "anarchy"
+    ]
+  },
+  {
+    "word": "water",
+    "definition": "A clear liquid that is colorless, odorless, and tasteless, and is necessary for the survival of most living things.",
+    "wordType": "noun",
+    "examples": [
+      "The water in this pool is very cold.",
+      "I need to drink some water before my run.",
+      "The water quality in the lake was tested by the environmental agency."
+    ],
+    "synonyms": [
+      "H2O",
+      "aquatic fluid",
+      "liquid"
+    ],
+    "antonyms": [
+      "fire",
+      "dryness",
+      "desert"
+    ]
+  },
+  {
+    "word": "without",
+    "definition": "In a way that does not include something or someone",
+    "wordType": "preposition",
+    "examples": [
+      "He went to the party without his friends.",
+      "The new policy was implemented without any input from employees.",
+      "She decided to start her own business without seeking investors."
+    ],
+    "synonyms": [
+      "minus",
+      "excluding",
+      "leaving out"
+    ],
+    "antonyms": [
+      "with",
+      "including",
+      "containing"
+    ]
+  },
+  {
+    "word": "us",
+    "definition": "a plural pronoun referring to oneself and others",
+    "wordType": "pronoun",
+    "examples": [
+      "We are going to the store.",
+      "The team is us, and we're going to win this game.",
+      "What's the plan, us?"
+    ],
+    "synonyms": [
+      "we",
+      "ourselves",
+      "our"
+    ],
+    "antonyms": [
+      "them",
+      "they",
+      "theirs"
+    ]
+  },
+  {
+    "word": "government",
+    "definition": "A system or group of people that has control over a country, organization, or community, typically through elected representatives.",
+    "wordType": "noun",
+    "examples": [
+      "The government passed a new law to reduce carbon emissions.",
+      "The city council is the local government of this district.",
+      "The government's decision was met with widespread protests."
+    ],
+    "synonyms": [
+      "regime",
+      "administration",
+      "authorities"
+    ],
+    "antonyms": [
+      "anarchy",
+      "chaos",
+      "rebellion"
+    ]
+  },
+  {
+    "word": "while",
+    "definition": "In the course of time; simultaneously; as long as; till",
+    "wordType": "conjunction",
+    "examples": [
+      "I'll study while you're working on your project.",
+      "We can watch TV while they cook dinner.",
+      "You should wait a bit before leaving, but I'll go now while it's still light."
+    ],
+    "synonyms": [
+      "meanwhile",
+      "simultaneously",
+      "during"
+    ],
+    "antonyms": [
+      "afterwards",
+      "later",
+      "formerly"
+    ]
+  },
+  {
+    "word": "long",
+    "definition": "Extending in distance, time or degree; not brief or short.",
+    "wordType": "adjective",
+    "examples": [
+      "The long road wound its way through the mountains.",
+      "She had long been looking forward to her retirement.",
+      "He was a long way from home."
+    ],
+    "synonyms": [
+      "extended",
+      "protracted",
+      "drawn out"
+    ],
+    "antonyms": [
+      "short",
+      "brief",
+      "curtailed"
+    ]
+  },
+  {
+    "word": "law",
+    "definition": "A rule or principle governing a particular area of activity or behavior.",
+    "wordType": "noun",
+    "examples": [
+      "The law states that all drivers must wear seatbelts.",
+      "The judge enforced the law by issuing a fine.",
+      "The lawyer studied the law to prepare for court."
+    ],
+    "synonyms": [
+      "regulation",
+      "statute",
+      "ordinance"
+    ],
+    "antonyms": [
+      "chaos",
+      "disorder",
+      "illegality"
+    ]
+  },
+  {
+    "word": "section",
+    "definition": "A part of a written or printed work, such as a chapter in a book or a segment of a television show.",
+    "wordType": "noun",
+    "examples": [
+      "The section on history was particularly interesting to me.",
+      "The new employee was assigned to the marketing section.",
+      "The engineer designed a new section for the bridge."
+    ],
+    "synonyms": [
+      "chapter",
+      "part",
+      "segment"
+    ],
+    "antonyms": [
+      "whole",
+      "entire",
+      "complete"
+    ]
+  },
+  {
+    "word": "court",
+    "definition": "A place where disputes are settled or lawsuits are tried, typically under the supervision of a judge.",
+    "wordType": "noun",
+    "examples": [
+      "The lawyer argued her case in court.",
+      "The verdict was delivered in a packed courtroom.",
+      "The judge presided over the trial in court."
+    ],
+    "synonyms": [
+      "lawcourt",
+      "judgment hall",
+      "tribunal"
+    ],
+    "antonyms": [
+      "home",
+      "prison",
+      "detention center"
+    ]
+  },
+  {
+    "word": "high",
+    "definition": "At or extending above the normal or expected level; elevated",
+    "wordType": "adjective",
+    "examples": [
+      "The high-speed train reached speeds of over 300 km/h.",
+      "She felt a sense of elation when she reached the high point on the hike.",
+      "The company's stock price rose to an all-time high yesterday."
+    ],
+    "synonyms": [
+      "elevated",
+      "lofty",
+      "exalted"
+    ],
+    "antonyms": [
+      "low",
+      "bottom",
+      "minimal"
+    ]
+  },
+  {
+    "word": "right",
+    "definition": "Correct or proper in action, position, or opinion; justifiable.",
+    "wordType": "adjective",
+    "examples": [
+      "The answer was right there all along.",
+      "She had the right to her own opinions.",
+      "He did everything right and got the job."
+    ],
+    "synonyms": [
+      "correct",
+      "proper",
+      "just"
+    ],
+    "antonyms": [
+      "wrong",
+      "incorrect",
+      "inaccurate"
+    ]
+  },
+  {
+    "word": "own",
+    "definition": "Possess or have control over something.",
+    "wordType": "verb",
+    "examples": [
+      "She owns a small bakery in town.",
+      "He owns three cars and loves to drive them all.",
+      "The company will own the new technology once it's developed."
+    ],
+    "synonyms": [
+      "possess",
+      "have",
+      "control"
+    ],
+    "antonyms": [
+      "rent",
+      "lease",
+      "borrow"
+    ]
+  },
+  {
+    "word": "found",
+    "definition": "To discover or come upon something unexpectedly, often in a surprising or pleasing way.",
+    "wordType": "verb",
+    "examples": [
+      "I found my keys on the kitchen counter.",
+      "The hikers found the hidden waterfall after hours of searching.",
+      "After months of looking, I finally found my favorite childhood book."
+    ],
+    "synonyms": [
+      "discover",
+      "come across",
+      "stumble upon"
+    ],
+    "antonyms": [
+      "lose",
+      "misplace",
+      "overlook"
+    ]
+  },
+  {
+    "word": "United",
+    "definition": "Formed into a single entity or group; joined together in a union.",
+    "wordType": "adjective",
+    "examples": [
+      "The two companies are united under one management team.",
+      "The community came together to be united in their efforts to help the victims of the natural disaster.",
+      "The two warring factions agreed to be united and end the conflict."
+    ],
+    "synonyms": [
+      "unified",
+      "joined",
+      "merged"
+    ],
+    "antonyms": [
+      "divided",
+      "separated",
+      "apart"
+    ]
+  },
+  {
+    "word": "just",
+    "definition": "Only recently; a short time ago.",
+    "wordType": "adverb",
+    "examples": [
+      "The concert is just starting.",
+      "I've just finished my homework.",
+      "He's just arrived."
+    ],
+    "synonyms": [
+      "recently",
+      "now",
+      "immediately"
+    ],
+    "antonyms": [
+      "ago",
+      "earlier",
+      "previously"
+    ]
+  },
+  {
+    "word": "here",
+    "definition": "In a specific location or position; in one's immediate vicinity.",
+    "wordType": "adverb",
+    "examples": [
+      "Can you meet me here at 5 PM?",
+      "I'll be waiting for you over here.",
+      "The store is located right here on Main Street."
+    ],
+    "synonyms": [
+      "hither",
+      "close",
+      "nearby"
+    ],
+    "antonyms": [
+      "there",
+      "away",
+      "distant"
+    ]
+  },
+  {
+    "word": "against",
+    "definition": "In a contrary or opposing manner; in a way that is unfavorable or hostile.",
+    "wordType": "preposition",
+    "examples": [
+      "A policy is often launched against a specific problem.",
+      "The new budget was passed against the wishes of many citizens.",
+      "Investors are generally wary about investing in stocks against the market trend."
+    ],
+    "synonyms": [
+      "in opposition to",
+      "contrary to",
+      "hostile to"
+    ],
+    "antonyms": [
+      "in favor of",
+      "supportive of",
+      "favorable towards"
+    ]
+  },
+  {
+    "word": "world",
+    "definition": "The Earth including its oceans, continents, and atmosphere.",
+    "wordType": "noun",
+    "examples": [
+      "The world is a beautiful place to live in",
+      "People from all over the world have gathered here today",
+      "The team will travel around the world for their next project"
+    ],
+    "synonyms": [
+      "earth",
+      "globe",
+      "planet"
+    ],
+    "antonyms": [
+      "microcosm",
+      "island",
+      "bubble"
+    ]
+  },
+  {
+    "word": "does",
+    "definition": "perform or undertake (something)",
+    "wordType": "verb",
+    "examples": [
+      "The company does not provide refunds.",
+      "She does yoga every morning.",
+      "He does his homework every evening."
+    ],
+    "synonyms": [
+      "execute",
+      "carry out",
+      "conduct"
+    ],
+    "antonyms": [
+      "does not do",
+      "refuses to do",
+      "ignores"
+    ]
+  },
+  {
+    "word": "within",
+    "definition": "Located or situated inside something; a point that is at a smaller distance from the outside edge or surface of an object than any other point.",
+    "wordType": "preposition",
+    "examples": [
+      "The package was shipped within three days.",
+      "The company has expanded its operations within the next year.",
+      "The team worked efficiently within the given timeframe."
+    ],
+    "synonyms": [
+      "inside",
+      "internally",
+      "within"
+    ],
+    "antonyms": [
+      "outside",
+      "externally",
+      "beyond"
+    ]
+  },
+  {
+    "word": "given",
+    "definition": " Provided with something that is already available or has been obtained previously.",
+    "wordType": "adverb",
+    "examples": [
+      "The answer was given at the end of the chapter.",
+      "The instructions were given in a clear and concise manner.",
+      "The gift was given to charity."
+    ],
+    "synonyms": [
+      "provided",
+      "furnished",
+      "offered"
+    ],
+    "antonyms": [
+      "taken",
+      "received",
+      "obtained"
+    ]
+  },
+  {
+    "word": "service",
+    "definition": "The act of helping or doing something that benefits someone or something",
+    "wordType": "noun",
+    "examples": [
+      "The company offers a range of services to its customers.",
+      "The hotel's service was exceptional, with staff always willing to help.",
+      "The repair service came highly recommended."
+    ],
+    "synonyms": [
+      "assistance",
+      "support",
+      "help"
+    ],
+    "antonyms": [
+      "disruption",
+      "hindrance",
+      "obstruction"
+    ]
+  },
+  {
+    "word": "house",
+    "definition": "A building for human habitation, typically one story high and roofed.",
+    "wordType": "noun",
+    "examples": [
+      "The family moved into their new house last weekend.",
+      "She inherited the old house from her great aunt.",
+      "He was tired after a long day of renovating his house."
+    ],
+    "synonyms": [
+      "dwelling",
+      "residence",
+      "abode"
+    ],
+    "antonyms": [
+      "hotel",
+      "motel",
+      "flat"
+    ]
+  },
+  {
+    "word": "another",
+    "definition": "Used to indicate something that is additional, supplementary, or identical; often implies a sense of similarity or likeness.",
+    "wordType": "adverb",
+    "examples": [
+      "After winning the first game, we're going to play another round of tennis.",
+      "I'm glad you like it, and I'll make another one for you.",
+      "The new employee was another fresh face in a sea of familiar colleagues."
+    ],
+    "synonyms": [
+      "additional",
+      "further",
+      "more"
+    ],
+    "antonyms": [
+      "unique",
+      "distinctive",
+      "singular"
+    ]
+  },
+  {
+    "word": "power",
+    "definition": "The ability to influence or control others or events; a strong force that motivates or compels",
+    "wordType": "noun",
+    "examples": [
+      "The power of the government is limited by the constitution.",
+      "She has the power to decide her own destiny.",
+      "The company has the power to negotiate better deals."
+    ],
+    "synonyms": [
+      "influence",
+      "control",
+      "strength"
+    ],
+    "antonyms": [
+      "weakness",
+      "helplessness",
+      "powerlessness"
+    ]
+  },
+  {
+    "word": "place",
+    "definition": "A location or site that is occupied or visited, such as a city, town, village, or country.",
+    "wordType": "noun",
+    "examples": [
+      "The family went to the place where they spent their summer vacation.",
+      "The new restaurant was a great place to try out some unique dishes.",
+      "The doctor's office was always a busy place in the morning."
+    ],
+    "synonyms": [
+      "location",
+      "spot",
+      "spot"
+    ],
+    "antonyms": [
+      "displacement",
+      "transit",
+      "nonexistence"
+    ]
+  },
+  {
+    "word": "know",
+    "definition": "To have knowledge or understanding of something.",
+    "wordType": "verb",
+    "examples": [
+      "A person who knows the answer to a question is well-equipped to solve it.",
+      "She knows how to cook a mean chili, and she's happy to share her recipe.",
+      "He knows what he wants to do with his life, and he's not afraid to pursue it."
+    ],
+    "synonyms": [
+      "understand",
+      "realize",
+      "comprehend"
+    ],
+    "antonyms": [
+      "ignore",
+      "disregard",
+      "overlook"
+    ]
+  },
+  {
+    "word": "little",
+    "definition": "Small in size, amount, or degree.",
+    "wordType": "adverb",
+    "examples": [
+      "The little bird perched on the windowsill.",
+      "She wore a little black dress to the party.",
+      "He's been feeling a little under the weather lately."
+    ],
+    "synonyms": [
+      "small",
+      "tiny",
+      "minor"
+    ],
+    "antonyms": [
+      "large",
+      "big",
+      "considerable"
+    ]
+  },
+  {
+    "word": "down",
+    "definition": "to move or cause to move from a higher position to a lower one; to fall or drop vertically",
+    "wordType": "verb",
+    "examples": [
+      "The ball went down the stairs.",
+      "The elevator took us down to the ground floor, finally.",
+      "The plane began its descent, slowly going down."
+    ],
+    "synonyms": [
+      "descend",
+      "fall",
+      "drop"
+    ],
+    "antonyms": [
+      "up",
+      "ascend",
+      "rise"
+    ]
+  },
+  {
+    "word": "present",
+    "definition": "A gift given on a special occasion, typically celebrated with ceremony and festivities.",
+    "wordType": "noun",
+    "examples": [
+      "She wrapped the present carefully before giving it to him.",
+      "The children eagerly opened their presents on Christmas morning.",
+      "He gave her a beautiful present for their anniversary."
+    ],
+    "synonyms": [
+      "gift",
+      "donation",
+      "offering"
+    ],
+    "antonyms": [
+      "absent",
+      "unavailable",
+      "missing"
+    ]
+  },
+  {
+    "word": "National",
+    "definition": "Relating to a country or nation; characteristic of a nation or its people.",
+    "wordType": "adjective",
+    "examples": [
+      "The national anthem is played at the beginning of every sports game.",
+      "She's a national hero for her bravery during the war.",
+      "The new national park is a popular tourist destination."
+    ],
+    "synonyms": [
+      "international",
+      "global",
+      "domestic"
+    ],
+    "antonyms": [
+      "regional",
+      "local",
+      "private"
+    ]
+  },
+  {
+    "word": "back",
+    "definition": "The rear or posterior part of something, especially a person's back",
+    "wordType": "noun",
+    "examples": [
+      "A person turned their back on the conversation.",
+      "The car backed into the parking space.",
+      "In yoga, she would bend her back to touch her toes."
+    ],
+    "synonyms": [
+      "rear",
+      "posterior",
+      "hinder"
+    ],
+    "antonyms": [
+      "front",
+      "forward",
+      "leading"
+    ]
+  },
+  {
+    "word": "take",
+    "definition": "To get or seize something, either physically or figuratively.",
+    "wordType": "verb",
+    "examples": [
+      "I'll take a book from the shelf.",
+      "He takes pride in his work.",
+      "She took the offer and ran with it."
+    ],
+    "synonyms": [
+      "seize",
+      "get",
+      "acquire"
+    ],
+    "antonyms": [
+      "give",
+      "yield",
+      "refuse"
+    ]
+  },
+  {
+    "word": "information",
+    "definition": "Knowledge or facts communicated, received, or exchanged.",
+    "wordType": "noun",
+    "examples": [
+      "A piece of information is something that you can use to make a decision or understand what's going on.",
+      "The meeting provided valuable information about the new project.",
+      "The company provides customer service representatives with all necessary information."
+    ],
+    "synonyms": [
+      "data",
+      "knowledge",
+      "facts"
+    ],
+    "antonyms": [
+      "ignorance",
+      "obfuscation",
+      "gossip"
+    ]
+  },
+  {
+    "word": "men",
+    "definition": "Adult male humans, especially in plural.",
+    "wordType": "noun",
+    "examples": [
+      "The men were gathered around the campfire.",
+      "He's one of the men who started the company.",
+      "The men's team won the championship."
+    ],
+    "synonyms": [
+      "fellows",
+      "guys",
+      "gentlemen"
+    ],
+    "antonyms": [
+      "women",
+      "ladies",
+      "gals"
+    ]
+  },
+  {
+    "word": "since",
+    "definition": "From that time forward; in consequence of something having happened or been done.",
+    "wordType": "conjunction",
+    "examples": [
+      "I've known her since she was a teenager.",
+      "The company has been expanding rapidly since its founding.",
+      "The weather has been unusually hot since the heatwave started."
+    ],
+    "synonyms": [
+      "as of",
+      "from then on",
+      "since that time"
+    ],
+    "antonyms": [
+      "before",
+      "prior to",
+      "until"
+    ]
+  },
+  {
+    "word": "might",
+    "definition": "a force or quality of being powerful, strong, and capable",
+    "wordType": "verb",
+    "examples": [
+      "She might win the competition if she practices hard.",
+      "The new policy might have unintended consequences.",
+      "The company might go bankrupt if it doesn't cut costs."
+    ],
+    "synonyms": [
+      "power",
+      "force",
+      "strength"
+    ],
+    "antonyms": [
+      "weakness",
+      "ineffectiveness",
+      "futility"
+    ]
+  },
+  {
+    "word": "small",
+    "definition": "Having a limited size or extent; not large.",
+    "wordType": "adjective",
+    "examples": [
+      "The small dog ran quickly around the corner.",
+      "She wore a small necklace with her initials.",
+      "He found a small, secluded beach to relax on."
+    ],
+    "synonyms": [
+      "tiny",
+      "little",
+      "miniature"
+    ],
+    "antonyms": [
+      "large",
+      "big",
+      "gigantic"
+    ]
+  },
+  {
+    "word": "large",
+    "definition": "Great in size, amount, or degree; big; considerable.",
+    "wordType": "adjective",
+    "examples": [
+      "The large dog was the biggest on the block",
+      "She wore a large hat to hide her hair loss",
+      "He had a large family with many kids"
+    ],
+    "synonyms": [
+      "big",
+      "huge",
+      "enormous"
+    ],
+    "antonyms": [
+      "small",
+      "tiny",
+      "minuscule"
+    ]
+  },
+  {
+    "word": "school",
+    "definition": "An educational institution that provides learning environments, curriculum, and instruction for students of various ages.",
+    "wordType": "noun",
+    "examples": [
+      "The school is located at the heart of the city.",
+      "She has been attending this school since she was five.",
+      "The school's football team won the championship last year."
+    ],
+    "synonyms": [
+      "academy",
+      "educational institution",
+      "pedagogical facility"
+    ],
+    "antonyms": [
+      "playground",
+      "recreation center",
+      "leisure zone"
+    ]
+  },
+  {
+    "word": "following",
+    "definition": "In a sequence of events or in a particular order; subsequent, next in line.",
+    "wordType": "adverb",
+    "examples": [
+      "A schedule for the following week has been posted.",
+      "The teacher will give you an assignment to be completed following class.",
+      "After the storm, the city officials were following up on damage reports."
+    ],
+    "synonyms": [
+      "next",
+      "followingly",
+      "subsequently"
+    ],
+    "antonyms": [
+      "previously",
+      "earlier",
+      "prior"
+    ]
+  },
+  {
+    "word": "still",
+    "definition": "remaining in a stationary position or condition; not moving or progressing",
+    "wordType": "adverb",
+    "examples": [
+      "The still water reflected the surrounding trees perfectly.",
+      "She was still studying for her exam at 3 am.",
+      "The stillness of the night made it easy to hear any noise"
+    ],
+    "synonyms": [
+      "quietly",
+      "silently",
+      "motionlessly"
+    ],
+    "antonyms": [
+      "rapidly",
+      "quickly",
+      "swiftly"
+    ]
+  },
+  {
+    "word": "less",
+    "definition": "Having a smaller quantity or extent; inferior in degree, amount, or quality.",
+    "wordType": "adverb",
+    "examples": [
+      "The room was less crowded than expected.",
+      "The new policy is less restrictive than the old one.",
+      "The company's profits are less this quarter compared to last."
+    ],
+    "synonyms": [
+      "fewer",
+      "lesser",
+      "smaller"
+    ],
+    "antonyms": [
+      "more",
+      "greater",
+      "larger"
+    ]
+  },
+  {
+    "word": "last",
+    "definition": "being the one remaining; most recent or preceding",
+    "wordType": "adverb",
+    "examples": [
+      "The movie ended last night",
+      "She finished her project just in time, it was due last Friday",
+      "We're leaving next week, but we'll be back by last Wednesday"
+    ],
+    "synonyms": [
+      "final",
+      "latest",
+      "most recent"
+    ],
+    "antonyms": [
+      "first",
+      "initial",
+      "earliest"
+    ]
+  },
+  {
+    "word": "city",
+    "definition": "A large and permanent human settlement.",
+    "wordType": "noun",
+    "examples": [
+      "The city is known for its vibrant nightlife.",
+      "The city's skyline is dominated by a large skyscraper.",
+      "I love visiting the city center on weekends."
+    ],
+    "synonyms": [
+      "town",
+      "metropolis",
+      "urban area"
+    ],
+    "antonyms": [
+      "rural",
+      "countryside",
+      "village"
+    ]
+  },
+  {
+    "word": "second",
+    "definition": "Coming next in time or order; following the first.",
+    "wordType": "adjective",
+    "examples": [
+      "The second half of the game was more exciting.",
+      "I came in second place.",
+      "The company is going to be second on the market."
+    ],
+    "synonyms": [
+      "next",
+      "following",
+      "subsequent"
+    ],
+    "antonyms": [
+      "first",
+      "initial",
+      "prior"
+    ]
+  },
+  {
+    "word": "development",
+    "definition": "The process of creating or improving something, such as a product, system, or technology.",
+    "wordType": "noun",
+    "examples": [
+      "The company is always looking for ways to improve its development process.",
+      "The new software was the result of years of development and testing.",
+      "The city's development plan aims to reduce traffic congestion."
+    ],
+    "synonyms": [
+      "growth",
+      "progress",
+      "improvement"
+    ],
+    "antonyms": [
+      "deterioration",
+      "decline",
+      "stagnation"
+    ]
+  },
+  {
+    "word": "different",
+    "definition": "Distinct in kind, manner, or character; not alike.",
+    "wordType": "adjective",
+    "examples": [
+      "The two companies have different business models.",
+      "Her views on politics are quite different from mine.",
+      "He's a different person since the accident."
+    ],
+    "synonyms": [
+      "distinct",
+      "unique",
+      "unlike"
+    ],
+    "antonyms": [
+      "similar",
+      "alike",
+      "identical"
+    ]
+  },
+  {
+    "word": "University",
+    "definition": "An institution of higher learning, typically providing education in the arts, sciences, and humanities at the undergraduate and graduate levels.",
+    "wordType": "Noun",
+    "examples": [
+      "She's a freshman at the local university.",
+      "The university's research department is working on a groundbreaking project.",
+      "He graduated from Stanford University with a degree in engineering."
+    ],
+    "synonyms": [
+      "Academy",
+      "College",
+      "Institution of Higher Learning"
+    ],
+    "antonyms": [
+      "High School",
+      "Vocational Training",
+      "Trade School"
+    ]
+  },
+  {
+    "word": "York",
+    "definition": "A city in northeast England, known for its rich history and cultural heritage.",
+    "wordType": "proper noun",
+    "examples": [
+      "The city of York is famous for its medieval architecture.",
+      "Tourists flock to York Minster, a magnificent Gothic cathedral.",
+      "The iconic Jorvik Viking Centre takes visitors on a journey through time."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "old",
+    "definition": "having lived or existed for a long time; having gone through a process of ripening, maturing, or becoming more seasoned; no longer young",
+    "wordType": "adjective",
+    "examples": [
+      "The old car had been in the family for generations.",
+      "He was an old friend from college.",
+      "She's getting old, but she still has a lot of life left."
+    ],
+    "synonyms": [
+      "aged",
+      "veteran",
+      "antiquated"
+    ],
+    "antonyms": [
+      "new",
+      "young",
+      "fresh"
+    ]
+  },
+  {
+    "word": "form",
+    "definition": "A visual representation of a data structure, typically used for input or output purposes.",
+    "wordType": "noun",
+    "examples": [
+      "The online application has multiple forms to gather personal information.",
+      "The doctor asked me to fill out the medical form before my appointment.",
+      "The company uses digital forms to streamline their hiring process."
+    ],
+    "synonyms": [
+      "template",
+      "layout",
+      "structure"
+    ],
+    "antonyms": [
+      "freeform",
+      "informal",
+      "unstructured"
+    ]
+  },
+  {
+    "word": "point",
+    "definition": "A location or position in space or time.",
+    "wordType": "noun",
+    "examples": [
+      "The point on the compass where the needle settles.",
+      "She made a point to arrive early for the meeting.",
+      "He drove the ball to the point of the goalpost."
+    ],
+    "synonyms": [
+      "location",
+      "spot",
+      "position"
+    ],
+    "antonyms": [
+      "distance",
+      "range",
+      "extent"
+    ]
+  },
+  {
+    "word": "total",
+    "definition": "Relating to or comprising all parts or elements of something considered as a whole, without any exceptions or exclusions.",
+    "wordType": "adjective",
+    "examples": [
+      "The total cost of the project was $10 million.",
+      "She gave me the total amount she owed me, which was $500.",
+      "The team's total score was 12 points."
+    ],
+    "synonyms": [
+      "complete",
+      "entire",
+      "absolute"
+    ],
+    "antonyms": [
+      "partial",
+      "incomplete",
+      "limited"
+    ]
+  },
+  {
+    "word": "data",
+    "definition": "Facts and statistics collected or stored for reference or analysis.",
+    "wordType": "noun",
+    "examples": [
+      "This dataset provides valuable insights into customer behavior.",
+      "The researcher analyzed the data to draw conclusions.",
+      "The company's database contains millions of records."
+    ],
+    "synonyms": [
+      "information",
+      "statistics",
+      "facts"
+    ],
+    "antonyms": [
+      "guesswork",
+      "speculation",
+      "theory"
+    ]
+  },
+  {
+    "word": "too",
+    "definition": "Also or very; to a great extent.",
+    "wordType": "adverb",
+    "examples": [
+      "I'm going to the store too.",
+      "She's coming with us, and her brother is coming too.",
+      "The weather is getting warmer every year, but it's still too cold for swimming."
+    ],
+    "synonyms": [
+      "also",
+      "very",
+      "extremely"
+    ],
+    "antonyms": [
+      "not",
+      "unusually",
+      "insufficiently"
+    ]
+  },
+  {
+    "word": "Committee",
+    "definition": "A group of people who work together to make decisions or take action on a particular issue or project.",
+    "wordType": "noun",
+    "examples": [
+      "The committee reviewed the proposal and made several suggestions for improvement.",
+      "She was appointed to the committee that oversees the development of new software products.",
+      "The company formed a committee to investigate the allegations of misconduct."
+    ],
+    "synonyms": [
+      "panel",
+      "council",
+      "task force"
+    ],
+    "antonyms": [
+      "individual",
+      "isolated",
+      "personal"
+    ]
+  },
+  {
+    "word": "report",
+    "definition": "A detailed description of an event or situation, often presented in a clear and structured format.",
+    "wordType": "noun",
+    "examples": [
+      "The news report was broadcast live last night.",
+      "She wrote a report on the environmental impact of the new development.",
+      "The police officer filled out a report on the incident."
+    ],
+    "synonyms": [
+      "article",
+      "summary",
+      "dispatch"
+    ],
+    "antonyms": [
+      "unverified information",
+      "rumor",
+      "speculation"
+    ]
+  },
+  {
+    "word": "business",
+    "definition": "The activity of making, buying, or selling goods or services with the aim of earning money.",
+    "wordType": "noun",
+    "examples": [
+      "She started her own business in her garage.",
+      "He is a successful businessman.",
+      "Their new business venture is expected to bring them great wealth."
+    ],
+    "synonyms": [
+      "commerce",
+      "trade",
+      "industry"
+    ],
+    "antonyms": [
+      "nonprofit",
+      "voluntary",
+      "charitable"
+    ]
+  },
+  {
+    "word": "think",
+    "definition": "To consider or contemplate; to form an opinion or idea.",
+    "wordType": "verb",
+    "examples": [
+      "I think the new policy is a great idea.",
+      "She thinks she's going to get a promotion.",
+      "The scientists have been thinking about the cure for weeks."
+    ],
+    "synonyms": [
+      "consider",
+      "contemplate",
+      "meditate"
+    ],
+    "antonyms": [
+      "ignore",
+      "dismiss",
+      "disregard"
+    ]
+  },
+  {
+    "word": "end",
+    "definition": "A point or period that marks a termination, conclusion, or extremity.",
+    "wordType": "verb, noun",
+    "examples": [
+      "The game is finally at its end.",
+      "She ended her speech with a flourish.",
+      "Their journey came to an end when they reached the destination."
+    ],
+    "synonyms": [
+      "terminate",
+      "finish",
+      "conclude"
+    ],
+    "antonyms": [
+      "begin",
+      "start",
+      "initiate"
+    ]
+  },
+  {
+    "word": "get",
+    "definition": "To obtain or procure something, often by making an effort or taking an action.",
+    "wordType": "verb",
+    "examples": [
+      "I'll get the book from the library for you.",
+      "She's trying to get a promotion at work.",
+      "Can you get me a glass of water?"
+    ],
+    "synonyms": [
+      "obtain",
+      "procure",
+      "acquire"
+    ],
+    "antonyms": [
+      "lose",
+      "discard",
+      "give away"
+    ]
+  },
+  {
+    "word": "set",
+    "definition": "A group of things that are together or a specific time or place for doing something",
+    "wordType": "noun",
+    "examples": [
+      "The set list for the concert included all her favorite songs.",
+      "She spent hours setting up the puzzle, finally completing the challenging set.",
+      "The new restaurant menu was a set of dishes that were sure to please."
+    ],
+    "synonyms": [
+      "collection",
+      "group",
+      "assemblage"
+    ],
+    "antonyms": [
+      "unsettled",
+      "unfixed",
+      "undefined"
+    ]
+  },
+  {
+    "word": "research",
+    "definition": "Systematic investigation into an answerable question, problem, or issue",
+    "wordType": "verb, noun",
+    "examples": [
+      "The team conducted extensive research on the effects of climate change.",
+      "The scientist's latest research paper was published in a top-tier journal.",
+      "The company invested heavily in research and development to improve their product."
+    ],
+    "synonyms": [
+      "study",
+      "investigation",
+      "exploration"
+    ],
+    "antonyms": [
+      "ignorance",
+      "complacency",
+      "apathy"
+    ]
+  },
+  {
+    "word": "say",
+    "definition": "To utter or express in words; declare verbally.",
+    "wordType": "verb",
+    "examples": [
+      "She says she's happy with the result.",
+      "He says he will be there tomorrow, but I doubt it.",
+      "The teacher says that homework is not required tonight."
+    ],
+    "synonyms": [
+      "utter",
+      "express",
+      "declare"
+    ],
+    "antonyms": [
+      "hear",
+      "listen",
+      "mum"
+    ]
+  },
+  {
+    "word": "come",
+    "definition": "To move towards a place or person, or to happen at a specified time.",
+    "wordType": "verb",
+    "examples": [
+      "The sun will come up tomorrow morning.",
+      "We're going to come in through the back door.",
+      "She's always coming over to my house."
+    ],
+    "synonyms": [
+      "arrive",
+      "appear",
+      "show"
+    ],
+    "antonyms": [
+      "go",
+      "leave",
+      "depart"
+    ]
+  },
+  {
+    "word": "country",
+    "definition": "A sovereign state or nation with its own government, population, and territory.",
+    "wordType": "noun",
+    "examples": [
+      "The country is known for its beautiful beaches and vibrant culture.",
+      "She loves to travel to new countries and experience their customs.",
+      "The country's economy has been struggling due to the pandemic."
+    ],
+    "synonyms": [
+      "nation",
+      "state",
+      "land"
+    ],
+    "antonyms": [
+      "city",
+      "town",
+      "metropolis"
+    ]
+  },
+  {
+    "word": "never",
+    "definition": "In no case, at no time; not at all.",
+    "wordType": "adverb",
+    "examples": [
+      "I'll never forget that trip",
+      "She will never tell the truth",
+      "He has never been to Paris"
+    ],
+    "synonyms": [
+      "not ever",
+      "at no time",
+      "in no circumstances"
+    ],
+    "antonyms": [
+      "always",
+      "every time",
+      "constantly"
+    ]
+  },
+  {
+    "word": "fact",
+    "definition": "A piece of information presented as true, without bias or interpretation.",
+    "wordType": "noun",
+    "examples": [
+      "The news article revealed several surprising facts about the company's financial dealings.",
+      "Scientists have long been searching for a fact that could explain the origins of life on Earth.",
+      "She spent hours researching to gather all the facts she needed for her report."
+    ],
+    "synonyms": [
+      "truth",
+      "reality",
+      "datum"
+    ],
+    "antonyms": [
+      "myth",
+      "legend",
+      "fiction"
+    ]
+  },
+  {
+    "word": "go",
+    "definition": "to move or travel in a specified direction or at a specified rate, typically on foot",
+    "wordType": "verb",
+    "examples": [
+      "Let's go to the store.",
+      "She went to New York alone.",
+      "The car will go 60 miles per hour."
+    ],
+    "synonyms": [
+      "move",
+      "travel",
+      "journey"
+    ],
+    "antonyms": [
+      "stay",
+      "stop",
+      "remain"
+    ]
+  },
+  {
+    "word": "control",
+    "definition": "The act of directing or regulating the behavior of something",
+    "wordType": "verb, noun",
+    "examples": [
+      "She took control of the meeting and steered it towards a productive discussion.",
+      "He lost control of his emotions and couldn't calm down.",
+      "The government needs to regain control of the economy."
+    ],
+    "synonyms": [
+      "command",
+      "govern",
+      "steer"
+    ],
+    "antonyms": [
+      "yield",
+      "relax",
+      "surrender"
+    ]
+  },
+  {
+    "word": "children",
+    "definition": "Minor human beings, especially those below a specified age, such as 18 years.",
+    "wordType": "noun",
+    "examples": [
+      "The children were playing in the park.",
+      "My children are grown now and moved out of the house.",
+      "The children's choir performed beautifully at the concert."
+    ],
+    "synonyms": [
+      "youngsters",
+      "kids",
+      "youth"
+    ],
+    "antonyms": [
+      "adults",
+      "mature individuals",
+      "grown-ups"
+    ]
+  },
+  {
+    "word": "thus",
+    "definition": "In that way or manner; in a specified manner",
+    "wordType": "adverb",
+    "examples": [
+      "The teacher explained the concept thus, making it easier to understand.",
+      "She approached the task thus: first she gathered all her materials, then she started building.",
+      "He interpreted the data thus: looking at the numbers, he saw a clear pattern emerging."
+    ],
+    "synonyms": [
+      "in that way",
+      "in this manner",
+      "as such"
+    ],
+    "antonyms": [
+      "otherwise",
+      "unlike",
+      "contrariwise"
+    ]
+  },
+  {
+    "word": "having",
+    "definition": "Possessing or holding something, either physically or metaphorically.",
+    "wordType": "verb",
+    "examples": [
+      "I'm having a great time at the party tonight.",
+      "She's having trouble with her new job.",
+      "They're having some issues with their relationship."
+    ],
+    "synonyms": [
+      "possessing",
+      "holding",
+      "enjoying"
+    ],
+    "antonyms": [
+      "lacking",
+      "without",
+      "unpossessed"
+    ]
+  },
+  {
+    "word": "value",
+    "definition": "The worth or merit of something, considered in relation to its cost.",
+    "wordType": "noun",
+    "examples": [
+      "This stock has increased in value since last quarter.",
+      "The value of her art collection was estimated at millions.",
+      "She placed a high value on honesty and integrity."
+    ],
+    "synonyms": [
+      "worth",
+      "merit",
+      "importance"
+    ],
+    "antonyms": [
+      "waste",
+      "futility",
+      "meaninglessness"
+    ]
+  },
+  {
+    "word": "social",
+    "definition": "Relating to or characterized by concern with the interdependence of individuals and societies; involving or characterized by cooperation, mutual support, and shared responsibility.",
+    "wordType": "adjective",
+    "examples": [
+      "The social media platforms have become a crucial part of modern life.",
+      "The company values fostering a social atmosphere in their offices.",
+      "The community has been working together to address the issue."
+    ],
+    "synonyms": [
+      "communal",
+      "group-oriented",
+      "collective"
+    ],
+    "antonyms": [
+      "antisocial",
+      "individualistic",
+      "solitary"
+    ]
+  },
+  {
+    "word": "Department",
+    "definition": "A specialized section within an organization responsible for a specific function or activity.",
+    "wordType": "noun",
+    "examples": [
+      "The marketing department is in charge of promoting our new product.",
+      "The research department at the university is working on a cure for cancer.",
+      "The sales department at the company is having a meeting to discuss quarterly goals."
+    ],
+    "synonyms": [
+      "division",
+      "unit",
+      "section"
+    ],
+    "antonyms": [
+      "whole",
+      "totality",
+      "all-encompassing"
+    ]
+  },
+  {
+    "word": "few",
+    "definition": "Small in number; not many.",
+    "wordType": "adverb",
+    "examples": [
+      "I have a few friends who live nearby.",
+      "The hotel has a few rooms available tonight.",
+      "It's been a few days since I've seen him."
+    ],
+    "synonyms": [
+      "a little",
+      "not many",
+      "some"
+    ],
+    "antonyms": [
+      "many",
+      "numerous",
+      "plentiful"
+    ]
+  },
+  {
+    "word": "above",
+    "definition": "located at a higher point or position than something else; situated on top of or over",
+    "wordType": "preposition",
+    "examples": [
+      "The bird built its nest above the waterfall.",
+      "The cloud drifted lazily above the treetops.",
+      "The kite soared above the children's heads."
+    ],
+    "synonyms": [
+      "over",
+      "on top",
+      "up"
+    ],
+    "antonyms": [
+      "below",
+      "underneath",
+      "beneath"
+    ]
+  },
+  {
+    "word": "important",
+    "definition": "Having a significant or critical effect; significant in amount, value, or consequence.",
+    "wordType": "adjective",
+    "examples": [
+      "The company's new product is important for its future success",
+      "The government considers the issue of climate change important and is taking steps to address it",
+      "The discovery of a cure was important news for patients with the disease"
+    ],
+    "synonyms": [
+      "key",
+      "crucial",
+      "vital"
+    ],
+    "antonyms": [
+      "unimportant",
+      "insignificant",
+      "trivial"
+    ]
+  },
+  {
+    "word": "interest",
+    "definition": "A feeling or emotion that makes you want to do something or learn more about something",
+    "wordType": "noun",
+    "examples": [
+      "I have a great interest in learning new languages.",
+      "Her interest in art is evident in her paintings.",
+      "The company has shown a strong interest in expanding into the Asian market."
+    ],
+    "synonyms": [
+      "fascination",
+      "enthusiasm",
+      "passion"
+    ],
+    "antonyms": [
+      "indifference",
+      "apathy",
+      "disinterest"
+    ]
+  },
+  {
+    "word": "study",
+    "definition": "To investigate or examine something systematically, especially to prepare for a test or examination",
+    "wordType": "verb",
+    "examples": [
+      "The students spent all weekend studying for their math test.",
+      "She studies the behavior of animals in their natural habitats.",
+      "He likes to study history and philosophy in his free time."
+    ],
+    "synonyms": [
+      "investigate",
+      "examine",
+      "analyze"
+    ],
+    "antonyms": [
+      "ignore",
+      "disregard",
+      "neglect"
+    ]
+  },
+  {
+    "word": "off",
+    "definition": "Away from something, or not functioning.",
+    "wordType": "preposition",
+    "examples": [
+      "The lights were off because I forgot to turn them on.",
+      "I'm feeling a bit off today.",
+      "The engine is finally off after hours of racing."
+    ],
+    "synonyms": [
+      "away",
+      "not",
+      "disconnected"
+    ],
+    "antonyms": [
+      "on",
+      "up",
+      "functioning"
+    ]
+  },
+  {
+    "word": "area",
+    "definition": "A region characterized by specific features or boundaries, such as a geographic area or an abstract concept.",
+    "wordType": "noun",
+    "examples": [
+      "The area of the forest affected by the fire was significant.",
+      "The company has a new development area for innovative projects.",
+      "The team is working on a detailed map of the archaeological area."
+    ],
+    "synonyms": [
+      "region",
+      "zone",
+      "domain"
+    ],
+    "antonyms": [
+      "point",
+      "spot",
+      "location"
+    ]
+  },
+  {
+    "word": "means",
+    "definition": "To intend or propose: This policy means a significant increase in taxes.",
+    "wordType": "verb",
+    "examples": [
+      "A company's profits mean it will be able to invest more in research and development.",
+      "The new budget will mean a 10% increase in tuition fees for students.",
+      "The team's strategy meant they had to adapt quickly to the changing market."
+    ],
+    "synonyms": [
+      "intends",
+      "proposes",
+      "suggests"
+    ],
+    "antonyms": [
+      "doesn't intend",
+      "refuses to propose",
+      "opposes"
+    ]
+  },
+  {
+    "word": "office",
+    "definition": "A place where administrative or business work is done, especially in a large organization.",
+    "wordType": "noun",
+    "examples": [
+      "The office was located on the top floor of the building.",
+      "She spent most of her day working at the office.",
+      "Their office was always filled with laughter and productivity."
+    ],
+    "synonyms": [
+      "workplace",
+      "business",
+      "company"
+    ],
+    "antonyms": [
+      "home",
+      "personal space",
+      "recreation"
+    ]
+  },
+  {
+    "word": "group",
+    "definition": "A collection of individuals or things sharing common characteristics, goals, or interests",
+    "wordType": "noun",
+    "examples": [
+      "The social group gathered for the party",
+      "The sports group won the championship",
+      "The online community is a great resource"
+    ],
+    "synonyms": [
+      "collection",
+      "assembly",
+      "unit"
+    ],
+    "antonyms": [
+      "individual",
+      "solitary",
+      "independent"
+    ]
+  },
+  {
+    "word": "give",
+    "definition": "Present or transfer ownership of something to someone, either physically or figuratively.",
+    "wordType": "verb",
+    "examples": [
+      "I'll give you the book if you finish your homework",
+      "She gave a speech about her research project",
+      "He gives great advice on how to start a business"
+    ],
+    "synonyms": [
+      "present",
+      "donate",
+      "contribute"
+    ],
+    "antonyms": [
+      "withhold",
+      "refuse",
+      "take"
+    ]
+  },
+  {
+    "word": "again",
+    "definition": "In a subsequent time or manner; a second time.",
+    "wordType": "adverb",
+    "examples": [
+      "I'm going to try again after I practice more.",
+      "We'll start again from the beginning.",
+      "She's not giving up, she's going to try again."
+    ],
+    "synonyms": [
+      "anew",
+      "once more",
+      "repeatedly"
+    ],
+    "antonyms": [
+      "previously",
+      "formerly",
+      "initially"
+    ]
+  },
+  {
+    "word": "war",
+    "definition": "A state of armed conflict between nations, states, or societies, usually characterized by organized violence and a substantial loss of life.",
+    "wordType": "noun",
+    "examples": [
+      "The devastating effects of war on civilians were evident in the aftermath.",
+      "The country was ravaged by war for decades.",
+      "The veteran spoke about his experiences during the brutal war."
+    ],
+    "synonyms": [
+      "conflict",
+      "strife",
+      "battle"
+    ],
+    "antonyms": [
+      "peace",
+      "pax",
+      "harmony"
+    ]
+  },
+  {
+    "word": "whether",
+    "definition": "Used to introduce an alternative, indicating a choice between two or more possibilities.",
+    "wordType": "conjunction",
+    "examples": [
+      "The weather will be fine whether I take an umbrella or not.",
+      "I'll attend the party whether you come with me or not.",
+      "She will go to the store whether she needs anything or not."
+    ],
+    "synonyms": [
+      "if",
+      "in case",
+      "unless"
+    ],
+    "antonyms": [
+      "certainly",
+      "necessarily",
+      "inevitably"
+    ]
+  },
+  {
+    "word": "question",
+    "definition": "A query or inquiry that seeks information, clarification, or understanding.",
+    "wordType": "noun",
+    "examples": [
+      "What is the meaning of life?",
+      "Can you explain this concept to me?",
+      "Do you have any advice for a new student?"
+    ],
+    "synonyms": [
+      "inquiry",
+      "query",
+      "inquest"
+    ],
+    "antonyms": [
+      "answer",
+      "solution",
+      "clarification"
+    ]
+  },
+  {
+    "word": "called",
+    "definition": "Summoned or uttered the name of something or someone, typically to attract attention or identify the thing named.",
+    "wordType": "verb",
+    "examples": [
+      "The fire alarm called for immediate evacuation.",
+      "She called her best friend to discuss the plans.",
+      "He's always calling his mom to check in."
+    ],
+    "synonyms": [
+      "named",
+      "summoned",
+      "invoked"
+    ],
+    "antonyms": [
+      "ignored",
+      "overlooked",
+      "disregarded"
+    ]
+  },
+  {
+    "word": "period",
+    "definition": "A length of time or a specific point in time marked by the occurrence of something.",
+    "wordType": "noun",
+    "examples": [
+      "The period from 1990 to 2000 saw significant growth.",
+      "The doctor examined the patient during a long and painful period of hospitalization.",
+      "She went through a difficult period after her divorce."
+    ],
+    "synonyms": [
+      "interval",
+      "duration",
+      "stage"
+    ],
+    "antonyms": [
+      "instant",
+      "moment",
+      "flash"
+    ]
+  },
+  {
+    "word": "line",
+    "definition": "A length of cord or string that is stretched tight from side to side, used for measuring or marking out a distance",
+    "wordType": "noun",
+    "examples": [
+      "The construction crew had to follow the line marked on the pavement to ensure they built the new highway correctly.",
+      "The artist carefully drew a line across the canvas with her brush.",
+      "The judge drew a line in the sand, saying that anyone crossing it would be held accountable."
+    ],
+    "synonyms": [
+      "cord",
+      "string",
+      "boundary"
+    ],
+    "antonyms": [
+      "curve",
+      "arc",
+      "nonlinear"
+    ]
+  },
+  {
+    "word": "land",
+    "definition": "A piece of ground or a country considered as the surface on which people, animals, and things live, move around, and exist.",
+    "wordType": "noun",
+    "examples": [
+      "The pilot successfully landed the plane on the runway.",
+      "The farmer worked hard to clear his land and plant crops.",
+      "The tourists decided to take a hike through the beautiful national land."
+    ],
+    "synonyms": [
+      "ground",
+      "soil",
+      "terrain"
+    ],
+    "antonyms": [
+      "sea",
+      "ocean",
+      "airspace"
+    ]
+  },
+  {
+    "word": "four",
+    "definition": "A cardinal number that is one more than three.",
+    "wordType": "noun",
+    "examples": [
+      "There are four people in the room, and they all know each other.",
+      "The new employee received his fourth assignment of the week.",
+      "She had been looking forward to her fourth birthday party for weeks."
+    ],
+    "synonyms": [
+      "quaternary",
+      "tetradic",
+      "quadral"
+    ],
+    "antonyms": [
+      "three",
+      "less than three",
+      "fewer"
+    ]
+  },
+  {
+    "word": "among",
+    "definition": "In a state of being surrounded or situated in something; to be situated within the limits of something, but not necessarily equidistant from all other points.",
+    "wordType": "Preposition",
+    "examples": [
+      "The flowers bloomed among the trees.",
+      "We found shells among the rocks on the beach.",
+      "The company is expanding its operations among several countries."
+    ],
+    "synonyms": [
+      "within",
+      "between",
+      "amidst"
+    ],
+    "antonyms": [
+      "outside",
+      "apart",
+      "separate"
+    ]
+  },
+  {
+    "word": "Table",
+    "definition": "A piece of furniture with a flat surface and legs, used for holding objects or eating meals.",
+    "wordType": "noun",
+    "examples": [
+      "The table was covered in books.",
+      "We need to buy a new table for the living room.",
+      "She set the table for dinner."
+    ],
+    "synonyms": [
+      "desk",
+      "console",
+      "stand"
+    ],
+    "antonyms": [
+      "chair",
+      "sofa",
+      "bed"
+    ]
+  },
+  {
+    "word": "Board",
+    "definition": "A flat, rectangular piece of material used to support or provide a surface for various activities.",
+    "wordType": "noun",
+    "examples": [
+      "A group of executives gathered around the board room table.",
+      "The skateboarder rode across the half-pipe board with ease.",
+      "The company's mission statement was displayed prominently on the board outside."
+    ],
+    "synonyms": [
+      "plank",
+      "panel",
+      "surface"
+    ],
+    "antonyms": [
+      "chaos",
+      "disorder",
+      "unpredictability"
+    ]
+  },
+  {
+    "word": "until",
+    "definition": "A verb or preposition meaning to a specified time in the future, up to the moment when something happens, or until something has happened.",
+    "wordType": "preposition",
+    "examples": [
+      "A company will offer discounts until Christmas.",
+      "The concert won't start until the band arrives.",
+      "The deadline is Saturday, and I'll finish my project until then."
+    ],
+    "synonyms": [
+      "up to",
+      "by the time",
+      "as long as"
+    ],
+    "antonyms": [
+      "after",
+      "following",
+      "beyond"
+    ]
+  },
+  {
+    "word": "hand",
+    "definition": "A body part that ends in fingers and is used for grasping and manipulating objects",
+    "wordType": "noun",
+    "examples": [
+      "I can hold your hand as we cross the street.",
+      "The artist skillfully painted a portrait of a delicate hand.",
+      "He offered his hand to help me up from the floor."
+    ],
+    "synonyms": [
+      "fist",
+      "palm",
+      "digit"
+    ],
+    "antonyms": [
+      "foot",
+      "toe",
+      "leg"
+    ]
+  },
+  {
+    "word": "taken",
+    "definition": "Grabbed or seized; obtained or gained",
+    "wordType": "verb",
+    "examples": [
+      "A picture was taken of the beautiful sunset",
+      "The company's stock has been taken over by investors",
+      "The student felt like their creativity had been taken away from them"
+    ],
+    "synonyms": [
+      "gotten",
+      "obtained",
+      "seized"
+    ],
+    "antonyms": [
+      "given",
+      "left",
+      "released"
+    ]
+  },
+  {
+    "word": "need",
+    "definition": "to require something necessary or essential for well-being, growth, or function",
+    "wordType": "verb",
+    "examples": [
+      "I need a new phone charger",
+      "The company needs to expand its product line",
+      "She needs a hug after that argument"
+    ],
+    "synonyms": [
+      "require",
+      "demand",
+      "must"
+    ],
+    "antonyms": [
+      "don't need",
+      "won't have",
+      "can live without"
+    ]
+  },
+  {
+    "word": "education",
+    "definition": "The process of teaching, learning, or acquiring knowledge or skills",
+    "wordType": "noun",
+    "examples": [
+      "A comprehensive education system is essential for a country's development.",
+      "She pursued higher education to advance her career.",
+      "Education is key to unlocking human potential."
+    ],
+    "synonyms": [
+      "learning",
+      "instruction",
+      "enlightenment"
+    ],
+    "antonyms": [
+      "ignorance",
+      "illiteracy",
+      "obliviousness"
+    ]
+  },
+  {
+    "word": "John",
+    "definition": "A masculine given name, primarily of English origin.",
+    "wordType": "Proper Noun (Given Name)",
+    "examples": [
+      "My neighbor John is a great guy to know.",
+      "I'll introduce you to my friend John at the party.",
+      "John is the CEO of this company."
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "certain",
+    "definition": "Having a strong sense of conviction or assurance; unmistakable, unfaltering, or inevitable.",
+    "wordType": "adjective",
+    "examples": [
+      "I'm certain that I locked the door before leaving the house.",
+      "She's certain to win the award with her outstanding performance.",
+      "He's certain that his company will recover from the economic downturn."
+    ],
+    "synonyms": [
+      "assured",
+      "confident",
+      "positive"
+    ],
+    "antonyms": [
+      "uncertain",
+      "doubtful",
+      "indecisive"
+    ]
+  },
+  {
+    "word": "County",
+    "definition": "A governmental unit that is smaller than a state, typically having some degree of autonomy and responsible for providing various public services to its residents.",
+    "wordType": "noun",
+    "examples": [
+      "The county courthouse was located in the center of town.",
+      "She lived in a small town in a rural county.",
+      "The county fair is an annual event that brings the community together."
+    ],
+    "synonyms": [
+      "shire",
+      "borough",
+      "district"
+    ],
+    "antonyms": [
+      "city",
+      "metropolis",
+      "town"
+    ]
+  },
+  {
+    "word": "action",
+    "definition": "The process of doing something that is intended to achieve a specific goal or effect",
+    "wordType": "noun",
+    "examples": [
+      "The new policy took immediate action to address the issue.",
+      "The charity organization took swift action to help those affected by the disaster.",
+      "The company took decisive action to improve its marketing strategy."
+    ],
+    "synonyms": [
+      "movement",
+      "step",
+      "measure"
+    ],
+    "antonyms": [
+      "inaction",
+      "delay",
+      "hesitation"
+    ]
+  },
+  {
+    "word": "several",
+    "definition": "A quantity of more than three but not many; a few: This several years I have been a member.",
+    "wordType": "adverb",
+    "examples": [
+      "I have received several emails from my manager today.",
+      "The hotel has several rooms with ocean views available for booking.",
+      "Several students in the class were absent yesterday due to illness."
+    ],
+    "synonyms": [
+      "many",
+      "numerous",
+      "plentiful"
+    ],
+    "antonyms": [
+      "few",
+      "couple",
+      "small"
+    ]
+  },
+  {
+    "word": "de",
+    "definition": "Latin or French, used to indicate a movement from one place to another, in the direction of",
+    "wordType": "preposition",
+    "examples": [
+      "The train went de Lyon to Paris",
+      "We had to take the road de Tours to Poitiers",
+      "The journey started de London and ended de Paris"
+    ],
+    "synonyms": [
+      "from",
+      "out of",
+      "away from"
+    ],
+    "antonyms": [
+      "to",
+      "toward",
+      "into"
+    ]
+  },
+  {
+    "word": "am",
+    "definition": "exist or have existence, often in a specified manner; to be the same as or identical with something else.",
+    "wordType": "verb",
+    "examples": [
+      "I am happy today.",
+      "She is not am I.",
+      "This am the best day ever."
+    ],
+    "synonyms": [
+      "exist",
+      "be",
+      "are"
+    ],
+    "antonyms": [
+      "isn't",
+      "wasn't",
+      "won't be"
+    ]
+  },
+  {
+    "word": "God",
+    "definition": "The supreme or ultimate reality in a religious system; the perfect, all-powerful, all-knowing, and unconditionally loving deity of Christianity.",
+    "wordType": "noun",
+    "examples": [
+      "The God of our fathers is merciful and gracious.",
+      "Thou art my God from whom cometh my salvation.",
+      "I will exalt you, my God, my Savior."
+    ],
+    "synonyms": [
+      "Deity",
+      "Supreme Being",
+      "Divinity"
+    ],
+    "antonyms": [
+      "Satan",
+      "Beast",
+      "Enemy"
+    ]
+  },
+  {
+    "word": "course",
+    "definition": "A path or route taken in studying, learning, or training; a series of lessons or classes offered for teaching or instruction.",
+    "wordType": "noun",
+    "examples": [
+      "The course I'm taking is really challenging this semester.",
+      "The new employee had to take an online course on company policies before starting work.",
+      "The golf course was beautiful and well-maintained."
+    ],
+    "synonyms": [
+      "program",
+      "curriculum",
+      "series"
+    ],
+    "antonyms": [
+      "distraction",
+      "obstacle",
+      "hindrance"
+    ]
+  },
+  {
+    "word": "far",
+    "definition": "at a great distance in space or time",
+    "wordType": "adverb",
+    "examples": [
+      "The island is far from the mainland.",
+      "The sun is far from Earth, but we can see it.",
+      "She has gone far and wide to find new friends."
+    ],
+    "synonyms": [
+      "distant",
+      "remote",
+      "afar"
+    ],
+    "antonyms": [
+      "near",
+      "close",
+      "nigh"
+    ]
+  },
+  {
+    "word": "effect",
+    "definition": "The result or outcome of a particular action or set of circumstances.",
+    "wordType": "noun",
+    "examples": [
+      "The effect of the cold weather was devastating to the crops.",
+      "The new policy had a positive effect on employee morale.",
+      "The firework's bright colors created a mesmerizing effect in the night sky."
+    ],
+    "synonyms": [
+      "consequence",
+      "result",
+      "outcome"
+    ],
+    "antonyms": [
+      "cause",
+      "reason",
+      "premise"
+    ]
+  },
+  {
+    "word": "possible",
+    "definition": "Capable of happening or existing; not impossible",
+    "wordType": "adjective",
+    "examples": [
+      "The new technology makes it possible for us to travel faster.",
+      "With a little effort, it's possible to learn a new language.",
+      "Given the current weather conditions, it's possible we'll have a rain delay."
+    ],
+    "synonyms": [
+      "feasible",
+      "plausible",
+      "probable"
+    ],
+    "antonyms": [
+      "impossible",
+      "unlikely",
+      "inconceivable"
+    ]
+  },
+  {
+    "word": "though",
+    "definition": "In spite of this or that; notwithstanding.",
+    "wordType": "conjunction",
+    "examples": [
+      "I may be tired, though I'll still finish the project on time.",
+      "She's not a morning person, though she tries to get up early.",
+      "The company has struggled, though they've made some progress."
+    ],
+    "synonyms": [
+      "although",
+      "even so",
+      "notwithstanding"
+    ],
+    "antonyms": [
+      "thus",
+      "therefore",
+      "consequently"
+    ]
+  },
+  {
+    "word": "left",
+    "definition": "turned or moved away from something or someone, or to remain behind when others go somewhere",
+    "wordType": "verb",
+    "examples": [
+      "The dog left the park at 6pm.",
+      "After dinner, they left for the concert.",
+      "He left his phone on the table."
+    ],
+    "synonyms": [
+      "departed",
+      "went away",
+      "quit"
+    ],
+    "antonyms": [
+      "arrived",
+      "entered",
+      "came"
+    ]
+  },
+  {
+    "word": "further",
+    "definition": "to a greater extent or degree; in addition to what is already present or done",
+    "wordType": "adverb",
+    "examples": [
+      "The company will further invest in renewable energy technologies.",
+      "The team worked further together to achieve their goal.",
+      "The new policy aims to further reduce carbon emissions."
+    ],
+    "synonyms": [
+      "more",
+      "additional",
+      "furthermore"
+    ],
+    "antonyms": [
+      "less",
+      "fewer",
+      "shortly"
+    ]
+  },
+  {
+    "word": "home",
+    "definition": "A person's fixed or semi-fixed abode, where they live permanently, especially as a member of a family.",
+    "wordType": "noun",
+    "examples": [
+      "The place where I grew up is my childhood home.",
+      "She went back to her hometown for the holiday.",
+      "Their new home has a lovely backyard."
+    ],
+    "synonyms": [
+      "dwelling",
+      "abode",
+      "residence"
+    ],
+    "antonyms": [
+      "away",
+      "astray",
+      "exile"
+    ]
+  },
+  {
+    "word": "days",
+    "definition": "A unit of time, equal to a period of 24 hours.",
+    "wordType": "noun",
+    "examples": [
+      "I'm going on vacation for days.",
+      "The days were filled with excitement and adventure.",
+      "After months of planning, the days finally arrived."
+    ],
+    "synonyms": [
+      "time",
+      "periods",
+      "intervals"
+    ],
+    "antonyms": [
+      "nights",
+      "evenings",
+      "moments"
+    ]
+  },
+  {
+    "word": "person",
+    "definition": "A human being, whether male or female; an individual.",
+    "wordType": "noun",
+    "examples": [
+      "The person who helped me move was a friend indeed.",
+      "She is the first person to ever achieve this feat.",
+      "He is not my favorite person right now."
+    ],
+    "synonyms": [
+      "individual",
+      "human",
+      "mortal"
+    ],
+    "antonyms": [
+      "thing",
+      "object",
+      " entity"
+    ]
+  },
+  {
+    "word": "health",
+    "definition": "A state of being free from disease or a normal physical and mental condition",
+    "wordType": "noun",
+    "examples": [
+      "The importance of health is often overlooked in our busy lives",
+      "Regular exercise can significantly improve one's health",
+      "Maintaining good health requires a balance between diet, exercise, and stress management"
+    ],
+    "synonyms": [
+      "wellness",
+      "fitness",
+      "physical condition"
+    ],
+    "antonyms": [
+      "illness",
+      "sickness",
+      "infirmity"
+    ]
+  },
+  {
+    "word": "amount",
+    "definition": "A quantity measured or estimated",
+    "wordType": "noun",
+    "examples": [
+      "The amount of money he earned was impressive.",
+      "The recipe required an exact amount of sugar.",
+      "The amount of rain we got this month is unusual."
+    ],
+    "synonyms": [
+      "quantity",
+      "measure",
+      "total"
+    ],
+    "antonyms": [
+      "insignificance",
+      "negligibility",
+      "smallness"
+    ]
+  },
+  {
+    "word": "subject",
+    "definition": "A field of study or investigation, typically within a specific department or faculty in an educational institution.",
+    "wordType": "noun",
+    "examples": [
+      "The subject of the essay was historical events in Europe during World War I",
+      "In this class, we are studying the subject of computer programming",
+      "The subject of her research was the effects of climate change on ecosystems"
+    ],
+    "synonyms": [
+      "topic",
+      "matter",
+      "discipline"
+    ],
+    "antonyms": [
+      "object",
+      "goal",
+      "target"
+    ]
+  },
+  {
+    "word": "yet",
+    "definition": "in addition or further; also",
+    "wordType": "adverb",
+    "examples": [
+      "I haven't finished the project yet.",
+      "We still have to pack up yet.",
+      "The company is going public yet."
+    ],
+    "synonyms": [
+      "so far",
+      "up to now",
+      "to date"
+    ],
+    "antonyms": [
+      "already",
+      "previously",
+      "formerly"
+    ]
+  },
+  {
+    "word": "program",
+    "definition": "A set of instructions that a computer follows to achieve a particular goal or objective",
+    "wordType": "noun",
+    "examples": [
+      "The new software program is designed to simplify data analysis.",
+      "The company's marketing program aimed to increase brand awareness.",
+      "The professor outlined the steps in her programming course."
+    ],
+    "synonyms": [
+      "software",
+      "application",
+      "system"
+    ],
+    "antonyms": [
+      "disorganization",
+      "chaos",
+      "freeform"
+    ]
+  },
+  {
+    "word": "therefore",
+    "definition": "As a result; accordingly",
+    "wordType": "adverb",
+    "examples": [
+      "The company went bankrupt, therefore we are cutting staff.",
+      "We cannot use this product, therefore we will return it.",
+      "The data does not support the claim, therefore we reject it."
+    ],
+    "synonyms": [
+      "hence",
+      "consequently",
+      "thus"
+    ],
+    "antonyms": [
+      "nevertheless",
+      "nonetheless",
+      "on the contrary"
+    ]
+  },
+  {
+    "word": "process",
+    "definition": "A series of actions taking place in a regular or logical order.",
+    "wordType": "verb",
+    "examples": [
+      "The new employee went through the hiring process.",
+      "The company streamlined its production process.",
+      "She carefully planned each step of her creative process."
+    ],
+    "synonyms": [
+      "procedure",
+      "routine",
+      "method"
+    ],
+    "antonyms": [
+      "instantaneity",
+      "haphazardness",
+      "randomness"
+    ]
+  },
+  {
+    "word": "services",
+    "definition": "The activities or functions provided by a business, organization, or individual to meet the needs of its customers, clients, or users.",
+    "wordType": "noun",
+    "examples": [
+      "A company offers services in software development and consulting.",
+      "The IT department provides services for all employees' computer issues.",
+      "The spa resort offers various wellness services including massages and facials."
+    ],
+    "synonyms": [
+      "facilities",
+      "functions",
+      "operations"
+    ],
+    "antonyms": [
+      "products",
+      "goods",
+      "commodities"
+    ]
+  },
+  {
+    "word": "rate",
+    "definition": "to give a judgment about the value or quality of something, often on a scale from 1 to 10",
+    "wordType": "verb",
+    "examples": [
+      "The critic gave the play a high rate and praised its originality.",
+      "The reviewer felt the movie didn't quite rate as well with audiences.",
+      "The company's stock rate has been steadily increasing over the past year."
+    ],
+    "synonyms": [
+      "evaluate",
+      "assess",
+      "appraise"
+    ],
+    "antonyms": [
+      "underrate",
+      "overrate",
+      "dismiss"
+    ]
+  },
+  {
+    "word": "local",
+    "definition": "Relating to a specific area, such as a neighborhood or region.",
+    "wordType": "adjective",
+    "examples": [
+      "The local park is always well-maintained.",
+      "I only buy locally sourced produce at the farmer's market.",
+      "The local news station has been covering the story nonstop."
+    ],
+    "synonyms": [
+      "regional",
+      "regulative",
+      "proximate"
+    ],
+    "antonyms": [
+      "global",
+      "national",
+      "universal"
+    ]
+  },
+  {
+    "word": "e",
+    "definition": "The seventh letter of the modern English alphabet, often used to represent a small quantity or to indicate that something is very small.",
+    "wordType": "article",
+    "examples": [
+      "Every day I eat an eclair for breakfast.",
+      "Elephants are enormous creatures.",
+      "Even the most skeptical scientists were astonished by the discovery."
+    ],
+    "synonyms": [
+      "tiny",
+      "minuscule",
+      "infinitesimal"
+    ],
+    "antonyms": [
+      "large",
+      "enormous",
+      "immense"
+    ]
+  },
+  {
+    "word": "find",
+    "definition": "To discover or locate something by searching or examining.",
+    "wordType": "verb",
+    "examples": [
+      "I found the book I was looking for on the shelf.",
+      "The detective had to find the missing clues before she could solve the case.",
+      "The app helps you find new friends who share your interests."
+    ],
+    "synonyms": [
+      "discover",
+      "locate",
+      "detect"
+    ],
+    "antonyms": [
+      "lose",
+      "misplace",
+      "overlook"
+    ]
+  },
+  {
+    "word": "necessary",
+    "definition": "Called for or required by circumstances; indispensable.",
+    "wordType": "adjective",
+    "examples": [
+      "It's necessary to bring an umbrella on a rainy day.",
+      "She felt it was necessary to apologize before moving forward.",
+      "He believed it was necessary to take a stand against injustice."
+    ],
+    "synonyms": [
+      "indispensable",
+      "essential",
+      "required"
+    ],
+    "antonyms": [
+      "optional",
+      "unnecessary",
+      "dispensable"
+    ]
+  },
+  {
+    "word": "often",
+    "definition": "Frequently or repeatedly; at regular intervals.",
+    "wordType": "adverb",
+    "examples": [
+      "I often go to the gym on weekends",
+      "She often wears blue dresses",
+      "They often take vacations during summer"
+    ],
+    "synonyms": [
+      "frequently",
+      "regularly",
+      "habitually"
+    ],
+    "antonyms": [
+      "seldom",
+      "rarely",
+      "occasionally"
+    ]
+  },
+  {
+    "word": "whole",
+    "definition": "Complete in every way; unbroken or intact from beginning to end.",
+    "wordType": "adjective",
+    "examples": [
+      "She's a whole new person since the makeover.",
+      "The company went whole hog on the new marketing strategy.",
+      "He wanted to be a whole different person after quitting his job."
+    ],
+    "synonyms": [
+      "complete",
+      "unbroken",
+      "intact"
+    ],
+    "antonyms": [
+      "partial",
+      "incomplete",
+      "broken"
+    ]
+  },
+  {
+    "word": "change",
+    "definition": "To make something different or to undergo a transformation.",
+    "wordType": "verb",
+    "examples": [
+      "She decided to change her major to pursue a career in art.",
+      "The company plans to change its strategy to increase profits.",
+      "He's going to change his diet to lose weight and feel healthier."
+    ],
+    "synonyms": [
+      "alter",
+      "modify",
+      "transform"
+    ],
+    "antonyms": [
+      "maintain",
+      "preserve",
+      "stay"
+    ]
+  },
+  {
+    "word": "example",
+    "definition": "A specific illustration or demonstration of how something works or how to do something",
+    "wordType": "noun",
+    "examples": [
+      "The company provided an example of the new software's capabilities.",
+      "The teacher used a diagram as an example of atomic structure.",
+      "In the instructions, the manufacturer included an example of proper assembly."
+    ],
+    "synonyms": [
+      "illustration",
+      "demonstration",
+      "model"
+    ],
+    "antonyms": [
+      "non-example",
+      "counterexample",
+      "negative instance"
+    ]
+  },
+  {
+    "word": "President",
+    "definition": "The chief executive officer of a government or organization",
+    "wordType": "Noun",
+    "examples": [
+      "The President of the United States is elected by the people every four years.",
+      "She was sworn in as the first female President of the company.",
+      "He was unanimously elected President of the student council."
+    ],
+    "synonyms": [
+      "Chief Executive",
+      "Head of State",
+      "Leader"
+    ],
+    "antonyms": [
+      "Citizen",
+      "Subject",
+      "Vassal"
+    ]
+  },
+  {
+    "word": "history",
+    "definition": "A systematic, chronological record of events or a continuous, systematic narrative of past events.",
+    "wordType": "noun",
+    "examples": [
+      "The history of the Roman Empire is fascinating to read about.",
+      "The museum is dedicated to preserving the history of our city.",
+      "She wrote a book on the history of computer science."
+    ],
+    "synonyms": [
+      "record",
+      "chronicle",
+      "account"
+    ],
+    "antonyms": [
+      "future",
+      "present",
+      "unknown"
+    ]
+  },
+  {
+    "word": "best",
+    "definition": "Of the highest quality, most excellent or most skilled.",
+    "wordType": "adjective",
+    "examples": [
+      "She's the best singer in the band.",
+      "He's the best player on the team.",
+      "This is the best pizza I've ever had."
+    ],
+    "synonyms": [
+      "excellent",
+      "outstanding",
+      "superb"
+    ],
+    "antonyms": [
+      "worst",
+      "bad",
+      "poor"
+    ]
+  },
+  {
+    "word": "although",
+    "definition": "Despite something being true, a different situation or condition exists.",
+    "wordType": "conjunction",
+    "examples": [
+      "A lot of people might think that this new restaurant is too expensive, although I think it's well worth the money.",
+      "I was planning to go on vacation, although my boss asked me to work overtime instead.",
+      "The weather seemed perfect for a picnic, although we had forgotten the blanket at home."
+    ],
+    "synonyms": [
+      "despite",
+      "in spite of",
+      "nevertheless"
+    ],
+    "antonyms": [
+      "therefore",
+      "hence",
+      "consequently"
+    ]
+  },
+  {
+    "word": "family",
+    "definition": "A group of people related by blood or marriage, typically living together in a household.",
+    "wordType": "noun",
+    "examples": [
+      "The family gathered around the dinner table for Thanksgiving.",
+      "She spent her summer vacation with her extended family at the lake house.",
+      "The family decided to adopt a child from Africa."
+    ],
+    "synonyms": [
+      "kin",
+      "clan",
+      "household"
+    ],
+    "antonyms": [
+      "stranger",
+      "outsider",
+      "foreigner"
+    ]
+  },
+  {
+    "word": "side",
+    "definition": "The surface of an object that is not the main or upper part, or one of the two parts into which something divides when it is divided along a line running from top to bottom.",
+    "wordType": "noun",
+    "examples": [
+      "She sat on the side of the pool.",
+      "He stood on the side lines during the game.",
+      "The side of the road was littered with trash."
+    ],
+    "synonyms": [
+      "flank",
+      "rim",
+      "border"
+    ],
+    "antonyms": [
+      "main",
+      "primary",
+      "dominant"
+    ]
+  },
+  {
+    "word": "held",
+    "definition": "past tense of hold; kept or retained possession of something; grasped or maintained a position",
+    "wordType": "verb, past tense",
+    "examples": [
+      "She held the door open for me.",
+      "The team held their lead throughout the game.",
+      "He held my hand tight as we crossed the road."
+    ],
+    "synonyms": [
+      "possessed",
+      "retained",
+      "kept"
+    ],
+    "antonyms": [
+      "released",
+      "let go",
+      "divested"
+    ]
+  },
+  {
+    "word": "based",
+    "definition": "Founded on or resulting from a particular principle, fact, or circumstance.",
+    "wordType": "verb",
+    "examples": [
+      "The new policy was based on extensive research.",
+      "The company's success is based on its strong brand reputation.",
+      "The decision to launch the product was based on market demand."
+    ],
+    "synonyms": [
+      "grounded",
+      "founded",
+      "derived"
+    ],
+    "antonyms": [
+      "unrelated",
+      "irrelevant",
+      "unconnected"
+    ]
+  },
+  {
+    "word": "South",
+    "definition": "Relating to or situated in the southern part of a country, continent, or hemisphere.",
+    "wordType": "adverb",
+    "examples": [
+      "The weather was warm and sunny south of the equator.",
+      "The South Pole is the southernmost point on Earth.",
+      "The sun rises in the east and sets in the south in most places."
+    ],
+    "synonyms": [
+      "southern",
+      "southeasterly",
+      "meridional"
+    ],
+    "antonyms": [
+      "North",
+      "northerly",
+      "septentrional"
+    ]
+  }
+]
