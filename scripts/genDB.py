@@ -2,107 +2,110 @@ import csv
 import json
 import ollama
 import os
-from tqdm import tqdm
 import time
+from tqdm import tqdm
 
-def process_word(word, max_retries=6):
-    prompt = f'''Generate a JSON object for the word '{word}' with the following structure:
+def process_word(word, max_attempts=80):
+    prompt = f'''Generate a JSON object for the word '{word}'. Strictly adhere to this structure:
 {{
     "word": "{word}",
-    "definition": "A clear and concise definition",
-    "wordType": "The part of speech (e.g., noun, verb, adjective)",
+    "definition": "A clear, concise definition.",
+    "wordType": "The part of speech (noun, verb, adjective, etc.).",
     "examples": [
-        "A sentence using the word {word}",
-        "Another example sentence using {word}",
-        "A third example using {word}"
+        "A sentence using {word}.",
+        "Another example with {word}.",
+        "A third instance of {word} usage."
     ],
     "synonyms": ["synonym1", "synonym2", "synonym3"],
     "antonyms": ["antonym1", "antonym2", "antonym3"]
 }}
-Ensure all fields contain accurate and unique information for the word '{word}'.
-The response should be valid JSON and nothing else as this will be put directly into my DB.
-IMPORTANT: Make sure the word '{word}' is used in ALL example sentences.
-DO NOT REPLY WITH ANYTHING OTHER THAN THE PYTHON OBJECT.'''
+Ensure all fields are accurately filled. The "word" field MUST match '{word}' exactly.
+Use the word in all examples. Provide real synonyms and antonyms.
+Your response MUST be valid JSON. Do not include any text outside the JSON structure.'''
 
-    for attempt in range(max_retries):
+    for attempt in range(max_attempts):
         try:
-            response = ollama.chat(
-                model="llama3",
-                messages=[{"role": "user", "content": prompt}],
-            )
+            response = ollama.chat(model="llama3", messages=[{"role": "user", "content": prompt}])
+            result = json.loads(response['message']['content'])
             
-            result = json.loads(response["message"]["content"])
-            
-            # Check if the word is used in all examples
-            if all(word.lower() in example.lower() for example in result["examples"]):
-                return result
-            else:
-                print(f"Retry for word '{word}': Word not used in all examples.")
-                time.sleep(1)  # Add a small delay before retrying
+            if result['word'].lower() == word.lower():
+                return result, None
         except json.JSONDecodeError:
-            print(f"Retry {attempt + 1} for word '{word}': Invalid JSON.")
-            time.sleep(1)  # Add a small delay before retrying
+            continue
+        except Exception as e:
+            if attempt == max_attempts - 1:
+                return None, str(e)
     
-    print(f"Failed to process word '{word}' after {max_retries} attempts.")
-    return None
+    return None, "Failed to generate valid JSON after maximum attempts"
+
+def load_words(file_path):
+    with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        return [row[0] for row in reader]
+
+def load_processed_words(file_path):
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as jsonfile:
+            return json.load(jsonfile)
+    return []
+
+def save_results(file_path, data, backup=False):
+    if backup:
+        backup_file = f"{file_path}.bak.{int(time.time())}"
+        with open(backup_file, 'w', encoding='utf-8') as jsonfile:
+            json.dump(data, jsonfile, indent=2)
+        print(f"Backup saved: {backup_file}")
+    
+    with open(file_path, 'w', encoding='utf-8') as jsonfile:
+        json.dump(data, jsonfile, indent=2)
+
+def save_progress(file_path, index):
+    with open(file_path, 'w') as f:
+        f.write(str(index))
 
 def main():
     input_file = 'final_scrape.csv'
     output_file = 'processed_words.json'
     progress_file = 'progress.txt'
-    failed_words_file = 'failed_words.txt'
     
-    # Load progress if exists
+    all_words = load_words(input_file)
+    processed_words = load_processed_words(output_file)
+    processed_set = set(word['word'].lower() for word in processed_words)
+    
     start_index = 0
     if os.path.exists(progress_file):
         with open(progress_file, 'r') as f:
             start_index = int(f.read().strip())
     
-    processed_words = []
-    failed_words = []
-    
-    # Load existing processed words if any
-    if os.path.exists(output_file):
-        with open(output_file, 'r') as jsonfile:
-            processed_words = json.load(jsonfile)
-    
-    with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        next(reader)  # Skip header if present
-        words = [row[0] for row in reader]  # Assuming the word is in the first column
+    print(f"Total words: {len(all_words)}")
+    print(f"Processed words: {len(processed_set)}")
+    print(f"Starting from index: {start_index}")
     
     try:
-        for i in tqdm(range(start_index, len(words)), initial=start_index, total=len(words)):
-            word = words[i]
-            result = process_word(word)
-            if result:
-                processed_words.append(result)
-            else:
-                failed_words.append(word)
+        for i in tqdm(range(start_index, len(all_words)), initial=start_index, total=len(all_words)):
+            word = all_words[i]
+            if word.lower() not in processed_set:
+                result, error = process_word(word)
+                if result and not error:
+                    processed_words.append(result)
+                    processed_set.add(result['word'].lower())
+                else:
+                    print(f"Failed to process '{word}': {error}")
             
-            # Save progress
-            with open(progress_file, 'w') as f:
-                f.write(str(i + 1))
+            save_progress(progress_file, i + 1)
             
-            # Save results periodically
-            if (i + 1) % 10 == 0:
-                with open(output_file, 'w', encoding='utf-8') as jsonfile:
-                    json.dump(processed_words, jsonfile, indent=2)
-                with open(failed_words_file, 'w', encoding='utf-8') as f:
-                    f.write('\n'.join(failed_words))
+            if (i + 1) % 1000 == 0:
+                save_results(output_file, processed_words, backup=True)
+            elif (i + 1) % 100 == 0:
+                save_results(output_file, processed_words)
     
     except KeyboardInterrupt:
-        print("\nProcess interrupted. Progress saved.")
+        print("\nProcess interrupted. Saving progress...")
     
     finally:
-        # Save final results
-        with open(output_file, 'w', encoding='utf-8') as jsonfile:
-            json.dump(processed_words, jsonfile, indent=2)
-        with open(failed_words_file, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(failed_words))
-        
+        save_results(output_file, processed_words, backup=True)
         print(f"Processed {len(processed_words)} words. Results saved to {output_file}")
-        print(f"Failed to process {len(failed_words)} words. List saved to {failed_words_file}")
+        print(f"Remaining words: {len(all_words) - len(processed_set)}")
 
 if __name__ == "__main__":
     main()

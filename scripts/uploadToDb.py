@@ -4,14 +4,14 @@ from firebase_admin import firestore
 import json
 
 # Initialize Firebase
-cred = credentials.Certificate('serviceAccountKey.json')  # Path to your service account key JSON file
+cred = credentials.Certificate('../serviceAccountKey.json')
 firebase_admin.initialize_app(cred)
 
 # Access Firestore
 db = firestore.client()
 
 # Load JSON data
-with open('word_data_processed.json') as json_file:  # Path to your JSON file with words data
+with open('processed_words.json') as json_file:
     words_data = json.load(json_file)
 
 # Upload words to Firestore
@@ -22,21 +22,20 @@ didx = 0
 difficulties = ['beginner', 'intermediate', 'advanced', 'expert']
 
 for word in words_data:
+    word_doc = word.copy()
+    word_doc["index"] = idx
+    word_doc["difficulty"] = difficulties[didx]
+    words_ref.add(word_doc)
 
-    word["index"] = idx
-    word["difficulty"] = difficulties[didx]
-    words_ref.add(word)
-
-    if idx == 5000:
+    if idx == 9000:
         if didx == 3:
             idx += 1
-            pass
         else:
             didx += 1
             idx = 0
     else:
         idx += 1
     
-    print(difficulties[didx], idx, word["word"])
+    print(f"{difficulties[didx]}, {idx}, {word['word']}")
 
 print('Upload completed successfully.')
